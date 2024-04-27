@@ -1,0 +1,301 @@
+,Year,Team,team_dir
+0,2015,Golden State Warriors,/teams/GSW/2015.html
+1,2015,Los Angeles Clippers,/teams/LAC/2015.html
+2,2015,San Antonio Spurs,/teams/SAS/2015.html
+3,2015,Atlanta Hawks,/teams/ATL/2015.html
+4,2015,Portland Trail Blazers,/teams/POR/2015.html
+5,2015,Cleveland Cavaliers,/teams/CLE/2015.html
+6,2015,Houston Rockets,/teams/HOU/2015.html
+7,2015,Memphis Grizzlies,/teams/MEM/2015.html
+8,2015,Dallas Mavericks,/teams/DAL/2015.html
+9,2015,Chicago Bulls,/teams/CHI/2015.html
+10,2015,Toronto Raptors,/teams/TOR/2015.html
+11,2015,Oklahoma City Thunder,/teams/OKC/2015.html
+12,2015,New Orleans Pelicans,/teams/NOP/2015.html
+13,2015,Utah Jazz,/teams/UTA/2015.html
+14,2015,Washington Wizards,/teams/WAS/2015.html
+15,2015,Indiana Pacers,/teams/IND/2015.html
+16,2015,Milwaukee Bucks,/teams/MIL/2015.html
+17,2015,Phoenix Suns,/teams/PHO/2015.html
+18,2015,Boston Celtics,/teams/BOS/2015.html
+19,2015,Detroit Pistons,/teams/DET/2015.html
+20,2015,Denver Nuggets,/teams/DEN/2015.html
+21,2015,Sacramento Kings,/teams/SAC/2015.html
+22,2015,Brooklyn Nets,/teams/BRK/2015.html
+23,2015,Miami Heat,/teams/MIA/2015.html
+24,2015,Charlotte Hornets,/teams/CHO/2015.html
+25,2015,Orlando Magic,/teams/ORL/2015.html
+26,2015,Los Angeles Lakers,/teams/LAL/2015.html
+27,2015,Minnesota Timberwolves,/teams/MIN/2015.html
+28,2015,Philadelphia 76ers,/teams/PHI/2015.html
+29,2015,New York Knicks,/teams/NYK/2015.html
+30,2016,San Antonio Spurs,/teams/SAS/2016.html
+31,2016,Golden State Warriors,/teams/GSW/2016.html
+32,2016,Oklahoma City Thunder,/teams/OKC/2016.html
+33,2016,Cleveland Cavaliers,/teams/CLE/2016.html
+34,2016,Toronto Raptors,/teams/TOR/2016.html
+35,2016,Los Angeles Clippers,/teams/LAC/2016.html
+36,2016,Atlanta Hawks,/teams/ATL/2016.html
+37,2016,Boston Celtics,/teams/BOS/2016.html
+38,2016,Charlotte Hornets,/teams/CHO/2016.html
+39,2016,Utah Jazz,/teams/UTA/2016.html
+40,2016,Indiana Pacers,/teams/IND/2016.html
+41,2016,Miami Heat,/teams/MIA/2016.html
+42,2016,Portland Trail Blazers,/teams/POR/2016.html
+43,2016,Detroit Pistons,/teams/DET/2016.html
+44,2016,Houston Rockets,/teams/HOU/2016.html
+45,2016,Dallas Mavericks,/teams/DAL/2016.html
+46,2016,Washington Wizards,/teams/WAS/2016.html
+47,2016,Chicago Bulls,/teams/CHI/2016.html
+48,2016,Orlando Magic,/teams/ORL/2016.html
+49,2016,Memphis Grizzlies,/teams/MEM/2016.html
+50,2016,Sacramento Kings,/teams/SAC/2016.html
+51,2016,Denver Nuggets,/teams/DEN/2016.html
+52,2016,New York Knicks,/teams/NYK/2016.html
+53,2016,New Orleans Pelicans,/teams/NOP/2016.html
+54,2016,Minnesota Timberwolves,/teams/MIN/2016.html
+55,2016,Milwaukee Bucks,/teams/MIL/2016.html
+56,2016,Phoenix Suns,/teams/PHO/2016.html
+57,2016,Brooklyn Nets,/teams/BRK/2016.html
+58,2016,Los Angeles Lakers,/teams/LAL/2016.html
+59,2016,Philadelphia 76ers,/teams/PHI/2016.html
+60,2017,Golden State Warriors,/teams/GSW/2017.html
+61,2017,San Antonio Spurs,/teams/SAS/2017.html
+62,2017,Houston Rockets,/teams/HOU/2017.html
+63,2017,Los Angeles Clippers,/teams/LAC/2017.html
+64,2017,Utah Jazz,/teams/UTA/2017.html
+65,2017,Toronto Raptors,/teams/TOR/2017.html
+66,2017,Cleveland Cavaliers,/teams/CLE/2017.html
+67,2017,Boston Celtics,/teams/BOS/2017.html
+68,2017,Washington Wizards,/teams/WAS/2017.html
+69,2017,Oklahoma City Thunder,/teams/OKC/2017.html
+70,2017,Memphis Grizzlies,/teams/MEM/2017.html
+71,2017,Miami Heat,/teams/MIA/2017.html
+72,2017,Denver Nuggets,/teams/DEN/2017.html
+73,2017,Charlotte Hornets,/teams/CHO/2017.html
+74,2017,Chicago Bulls,/teams/CHI/2017.html
+75,2017,Portland Trail Blazers,/teams/POR/2017.html
+76,2017,Milwaukee Bucks,/teams/MIL/2017.html
+77,2017,Indiana Pacers,/teams/IND/2017.html
+78,2017,Minnesota Timberwolves,/teams/MIN/2017.html
+79,2017,Atlanta Hawks,/teams/ATL/2017.html
+80,2017,Detroit Pistons,/teams/DET/2017.html
+81,2017,New Orleans Pelicans,/teams/NOP/2017.html
+82,2017,Dallas Mavericks,/teams/DAL/2017.html
+83,2017,Sacramento Kings,/teams/SAC/2017.html
+84,2017,New York Knicks,/teams/NYK/2017.html
+85,2017,Phoenix Suns,/teams/PHO/2017.html
+86,2017,Philadelphia 76ers,/teams/PHI/2017.html
+87,2017,Los Angeles Lakers,/teams/LAL/2017.html
+88,2017,Brooklyn Nets,/teams/BRK/2017.html
+89,2017,Orlando Magic,/teams/ORL/2017.html
+90,2018,Houston Rockets,/teams/HOU/2018.html
+91,2018,Toronto Raptors,/teams/TOR/2018.html
+92,2018,Golden State Warriors,/teams/GSW/2018.html
+93,2018,Utah Jazz,/teams/UTA/2018.html
+94,2018,Philadelphia 76ers,/teams/PHI/2018.html
+95,2018,Oklahoma City Thunder,/teams/OKC/2018.html
+96,2018,Boston Celtics,/teams/BOS/2018.html
+97,2018,San Antonio Spurs,/teams/SAS/2018.html
+98,2018,Portland Trail Blazers,/teams/POR/2018.html
+99,2018,Minnesota Timberwolves,/teams/MIN/2018.html
+100,2018,Denver Nuggets,/teams/DEN/2018.html
+101,2018,New Orleans Pelicans,/teams/NOP/2018.html
+102,2018,Indiana Pacers,/teams/IND/2018.html
+103,2018,Cleveland Cavaliers,/teams/CLE/2018.html
+104,2018,Washington Wizards,/teams/WAS/2018.html
+105,2018,Miami Heat,/teams/MIA/2018.html
+106,2018,Los Angeles Clippers,/teams/LAC/2018.html
+107,2018,Charlotte Hornets,/teams/CHO/2018.html
+108,2018,Detroit Pistons,/teams/DET/2018.html
+109,2018,Milwaukee Bucks,/teams/MIL/2018.html
+110,2018,Los Angeles Lakers,/teams/LAL/2018.html
+111,2018,Dallas Mavericks,/teams/DAL/2018.html
+112,2018,New York Knicks,/teams/NYK/2018.html
+113,2018,Brooklyn Nets,/teams/BRK/2018.html
+114,2018,Orlando Magic,/teams/ORL/2018.html
+115,2018,Atlanta Hawks,/teams/ATL/2018.html
+116,2018,Memphis Grizzlies,/teams/MEM/2018.html
+117,2018,Chicago Bulls,/teams/CHI/2018.html
+118,2018,Sacramento Kings,/teams/SAC/2018.html
+119,2018,Phoenix Suns,/teams/PHO/2018.html
+120,2019,Milwaukee Bucks,/teams/MIL/2019.html
+121,2019,Golden State Warriors,/teams/GSW/2019.html
+122,2019,Toronto Raptors,/teams/TOR/2019.html
+123,2019,Utah Jazz,/teams/UTA/2019.html
+124,2019,Houston Rockets,/teams/HOU/2019.html
+125,2019,Portland Trail Blazers,/teams/POR/2019.html
+126,2019,Denver Nuggets,/teams/DEN/2019.html
+127,2019,Boston Celtics,/teams/BOS/2019.html
+128,2019,Oklahoma City Thunder,/teams/OKC/2019.html
+129,2019,Indiana Pacers,/teams/IND/2019.html
+130,2019,Philadelphia 76ers,/teams/PHI/2019.html
+131,2019,San Antonio Spurs,/teams/SAS/2019.html
+132,2019,Los Angeles Clippers,/teams/LAC/2019.html
+133,2019,Orlando Magic,/teams/ORL/2019.html
+134,2019,Miami Heat,/teams/MIA/2019.html
+135,2019,Brooklyn Nets,/teams/BRK/2019.html
+136,2019,Detroit Pistons,/teams/DET/2019.html
+137,2019,Sacramento Kings,/teams/SAC/2019.html
+138,2019,Dallas Mavericks,/teams/DAL/2019.html
+139,2019,Minnesota Timberwolves,/teams/MIN/2019.html
+140,2019,New Orleans Pelicans,/teams/NOP/2019.html
+141,2019,Los Angeles Lakers,/teams/LAL/2019.html
+142,2019,Charlotte Hornets,/teams/CHO/2019.html
+143,2019,Memphis Grizzlies,/teams/MEM/2019.html
+144,2019,Washington Wizards,/teams/WAS/2019.html
+145,2019,Atlanta Hawks,/teams/ATL/2019.html
+146,2019,Chicago Bulls,/teams/CHI/2019.html
+147,2019,Phoenix Suns,/teams/PHO/2019.html
+148,2019,New York Knicks,/teams/NYK/2019.html
+149,2019,Cleveland Cavaliers,/teams/CLE/2019.html
+150,2020,Milwaukee Bucks,/teams/MIL/2020.html
+151,2020,Los Angeles Clippers,/teams/LAC/2020.html
+152,2020,Los Angeles Lakers,/teams/LAL/2020.html
+153,2020,Toronto Raptors,/teams/TOR/2020.html
+154,2020,Boston Celtics,/teams/BOS/2020.html
+155,2020,Dallas Mavericks,/teams/DAL/2020.html
+156,2020,Houston Rockets,/teams/HOU/2020.html
+157,2020,Utah Jazz,/teams/UTA/2020.html
+158,2020,Miami Heat,/teams/MIA/2020.html
+159,2020,Oklahoma City Thunder,/teams/OKC/2020.html
+160,2020,Denver Nuggets,/teams/DEN/2020.html
+161,2020,Philadelphia 76ers,/teams/PHI/2020.html
+162,2020,Indiana Pacers,/teams/IND/2020.html
+163,2020,Phoenix Suns,/teams/PHO/2020.html
+164,2020,New Orleans Pelicans,/teams/NOP/2020.html
+165,2020,Portland Trail Blazers,/teams/POR/2020.html
+166,2020,San Antonio Spurs,/teams/SAS/2020.html
+167,2020,Memphis Grizzlies,/teams/MEM/2020.html
+168,2020,Brooklyn Nets,/teams/BRK/2020.html
+169,2020,Orlando Magic,/teams/ORL/2020.html
+170,2020,Sacramento Kings,/teams/SAC/2020.html
+171,2020,Minnesota Timberwolves,/teams/MIN/2020.html
+172,2020,Chicago Bulls,/teams/CHI/2020.html
+173,2020,Detroit Pistons,/teams/DET/2020.html
+174,2020,Washington Wizards,/teams/WAS/2020.html
+175,2020,New York Knicks,/teams/NYK/2020.html
+176,2020,Charlotte Hornets,/teams/CHO/2020.html
+177,2020,Atlanta Hawks,/teams/ATL/2020.html
+178,2020,Cleveland Cavaliers,/teams/CLE/2020.html
+179,2020,Golden State Warriors,/teams/GSW/2020.html
+180,2021,Utah Jazz,/teams/UTA/2021.html
+181,2021,Los Angeles Clippers,/teams/LAC/2021.html
+182,2021,Phoenix Suns,/teams/PHO/2021.html
+183,2021,Milwaukee Bucks,/teams/MIL/2021.html
+184,2021,Philadelphia 76ers,/teams/PHI/2021.html
+185,2021,Denver Nuggets,/teams/DEN/2021.html
+186,2021,Brooklyn Nets,/teams/BRK/2021.html
+187,2021,Los Angeles Lakers,/teams/LAL/2021.html
+188,2021,Dallas Mavericks,/teams/DAL/2021.html
+189,2021,New York Knicks,/teams/NYK/2021.html
+190,2021,Atlanta Hawks,/teams/ATL/2021.html
+191,2021,Portland Trail Blazers,/teams/POR/2021.html
+192,2021,Boston Celtics,/teams/BOS/2021.html
+193,2021,Golden State Warriors,/teams/GSW/2021.html
+194,2021,Memphis Grizzlies,/teams/MEM/2021.html
+195,2021,Miami Heat,/teams/MIA/2021.html
+196,2021,Indiana Pacers,/teams/IND/2021.html
+197,2021,New Orleans Pelicans,/teams/NOP/2021.html
+198,2021,Toronto Raptors,/teams/TOR/2021.html
+199,2021,Chicago Bulls,/teams/CHI/2021.html
+200,2021,San Antonio Spurs,/teams/SAS/2021.html
+201,2021,Washington Wizards,/teams/WAS/2021.html
+202,2021,Charlotte Hornets,/teams/CHO/2021.html
+203,2021,Sacramento Kings,/teams/SAC/2021.html
+204,2021,Detroit Pistons,/teams/DET/2021.html
+205,2021,Minnesota Timberwolves,/teams/MIN/2021.html
+206,2021,Houston Rockets,/teams/HOU/2021.html
+207,2021,Cleveland Cavaliers,/teams/CLE/2021.html
+208,2021,Orlando Magic,/teams/ORL/2021.html
+209,2021,Oklahoma City Thunder,/teams/OKC/2021.html
+210,2022,Boston Celtics,/teams/BOS/2022.html
+211,2022,Phoenix Suns,/teams/PHO/2022.html
+212,2022,Utah Jazz,/teams/UTA/2022.html
+213,2022,Golden State Warriors,/teams/GSW/2022.html
+214,2022,Memphis Grizzlies,/teams/MEM/2022.html
+215,2022,Miami Heat,/teams/MIA/2022.html
+216,2022,Dallas Mavericks,/teams/DAL/2022.html
+217,2022,Milwaukee Bucks,/teams/MIL/2022.html
+218,2022,Philadelphia 76ers,/teams/PHI/2022.html
+219,2022,Toronto Raptors,/teams/TOR/2022.html
+220,2022,Minnesota Timberwolves,/teams/MIN/2022.html
+221,2022,Denver Nuggets,/teams/DEN/2022.html
+222,2022,Cleveland Cavaliers,/teams/CLE/2022.html
+223,2022,Atlanta Hawks,/teams/ATL/2022.html
+224,2022,Brooklyn Nets,/teams/BRK/2022.html
+225,2022,Charlotte Hornets,/teams/CHO/2022.html
+226,2022,New York Knicks,/teams/NYK/2022.html
+227,2022,Los Angeles Clippers,/teams/LAC/2022.html
+228,2022,San Antonio Spurs,/teams/SAS/2022.html
+229,2022,Chicago Bulls,/teams/CHI/2022.html
+230,2022,New Orleans Pelicans,/teams/NOP/2022.html
+231,2022,Los Angeles Lakers,/teams/LAL/2022.html
+232,2022,Indiana Pacers,/teams/IND/2022.html
+233,2022,Washington Wizards,/teams/WAS/2022.html
+234,2022,Sacramento Kings,/teams/SAC/2022.html
+235,2022,Detroit Pistons,/teams/DET/2022.html
+236,2022,Orlando Magic,/teams/ORL/2022.html
+237,2022,Oklahoma City Thunder,/teams/OKC/2022.html
+238,2022,Houston Rockets,/teams/HOU/2022.html
+239,2022,Portland Trail Blazers,/teams/POR/2022.html
+240,2023,Boston Celtics,/teams/BOS/2023.html
+241,2023,Cleveland Cavaliers,/teams/CLE/2023.html
+242,2023,Philadelphia 76ers,/teams/PHI/2023.html
+243,2023,Memphis Grizzlies,/teams/MEM/2023.html
+244,2023,Milwaukee Bucks,/teams/MIL/2023.html
+245,2023,New York Knicks,/teams/NYK/2023.html
+246,2023,Denver Nuggets,/teams/DEN/2023.html
+247,2023,Sacramento Kings,/teams/SAC/2023.html
+248,2023,Phoenix Suns,/teams/PHO/2023.html
+249,2023,Toronto Raptors,/teams/TOR/2023.html
+250,2023,New Orleans Pelicans,/teams/NOP/2023.html
+251,2023,Golden State Warriors,/teams/GSW/2023.html
+252,2023,Chicago Bulls,/teams/CHI/2023.html
+253,2023,Brooklyn Nets,/teams/BRK/2023.html
+254,2023,Oklahoma City Thunder,/teams/OKC/2023.html
+255,2023,Los Angeles Lakers,/teams/LAL/2023.html
+256,2023,Atlanta Hawks,/teams/ATL/2023.html
+257,2023,Los Angeles Clippers,/teams/LAC/2023.html
+258,2023,Dallas Mavericks,/teams/DAL/2023.html
+259,2023,Minnesota Timberwolves,/teams/MIN/2023.html
+260,2023,Miami Heat,/teams/MIA/2023.html
+261,2023,Utah Jazz,/teams/UTA/2023.html
+262,2023,Washington Wizards,/teams/WAS/2023.html
+263,2023,Orlando Magic,/teams/ORL/2023.html
+264,2023,Indiana Pacers,/teams/IND/2023.html
+265,2023,Portland Trail Blazers,/teams/POR/2023.html
+266,2023,Charlotte Hornets,/teams/CHO/2023.html
+267,2023,Houston Rockets,/teams/HOU/2023.html
+268,2023,Detroit Pistons,/teams/DET/2023.html
+269,2023,San Antonio Spurs,/teams/SAS/2023.html
+270,2024,Boston Celtics,/teams/BOS/2024.html
+271,2024,Oklahoma City Thunder,/teams/OKC/2024.html
+272,2024,Minnesota Timberwolves,/teams/MIN/2024.html
+273,2024,Denver Nuggets,/teams/DEN/2024.html
+274,2024,New York Knicks,/teams/NYK/2024.html
+275,2024,New Orleans Pelicans,/teams/NOP/2024.html
+276,2024,Los Angeles Clippers,/teams/LAC/2024.html
+277,2024,Phoenix Suns,/teams/PHO/2024.html
+278,2024,Golden State Warriors,/teams/GSW/2024.html
+279,2024,Indiana Pacers,/teams/IND/2024.html
+280,2024,Philadelphia 76ers,/teams/PHI/2024.html
+281,2024,Milwaukee Bucks,/teams/MIL/2024.html
+282,2024,Sacramento Kings,/teams/SAC/2024.html
+283,2024,Dallas Mavericks,/teams/DAL/2024.html
+284,2024,Cleveland Cavaliers,/teams/CLE/2024.html
+285,2024,Orlando Magic,/teams/ORL/2024.html
+286,2024,Houston Rockets,/teams/HOU/2024.html
+287,2024,Miami Heat,/teams/MIA/2024.html
+288,2024,Los Angeles Lakers,/teams/LAL/2024.html
+289,2024,Chicago Bulls,/teams/CHI/2024.html
+290,2024,Atlanta Hawks,/teams/ATL/2024.html
+291,2024,Brooklyn Nets,/teams/BRK/2024.html
+292,2024,Utah Jazz,/teams/UTA/2024.html
+293,2024,San Antonio Spurs,/teams/SAS/2024.html
+294,2024,Toronto Raptors,/teams/TOR/2024.html
+295,2024,Memphis Grizzlies,/teams/MEM/2024.html
+296,2024,Portland Trail Blazers,/teams/POR/2024.html
+297,2024,Detroit Pistons,/teams/DET/2024.html
+298,2024,Washington Wizards,/teams/WAS/2024.html
+299,2024,Charlotte Hornets,/teams/CHO/2024.html

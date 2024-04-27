@@ -5,6 +5,7 @@ import pandas as pd
 import time
 import random
 import pickle
+import lxml
 
 def get_season_schedule(filename, seasons = [2015]):
     '''
@@ -93,6 +94,7 @@ def get_game_stats(dataframe, filename):
     """
     count = 1
     flag = 0
+
     game_stats = pd.DataFrame(columns = ["date",
             "home_team",
             "home_fg",
@@ -135,6 +137,7 @@ def get_game_stats(dataframe, filename):
             "arena"])
     
     print("getitng individual game stats", end = " ")
+
     for game in dataframe.iterrows():
         print('.', end="")
         game = game[1]
@@ -270,6 +273,7 @@ def get_game_stats(dataframe, filename):
                 error.to_parquet(name_of_file)
             continue
 
+
         if count % 100 == 0:
             name_of_file = f"{filename}.parquet.gzip"
             game_stats.to_parquet(name_of_file)
@@ -280,6 +284,7 @@ def get_game_stats(dataframe, filename):
             name_of_file = f"{filename}.parquet.gzip"
             game_stats.to_parquet(name_of_file)
         count+=1
+
     if flag == 1:
         print("errors: ", len(pd.read_parquet(f"{filename}_error.parquet.gzip")))
     return game_stats
@@ -295,8 +300,9 @@ def main():
     Volume_2 =  [2017, 2018]
     Volume_3 =  [2019, 2020]
     Volume_4 =  [2021, 2022]
+    Volume_5 =  [2022, 2023, 2024]
 
-    volumes = [Volume_1, Volume_2, Volume_3, Volume_4]
+    volumes = [Volume_1, Volume_2, Volume_3, Volume_4, Volume_5]
     print("getting seasons: ", str(volumes[my_vol]))
 
 
