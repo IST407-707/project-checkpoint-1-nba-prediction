@@ -1,0 +1,1294 @@
+,season,date,away_team_id,home_team_id,arena,link
+0,2024,"Tue, Oct 24, 2023",LAL,DEN,Ball Arena,/boxscores/202310240DEN.html
+1,2024,"Tue, Oct 24, 2023",PHO,GSW,Chase Center,/boxscores/202310240GSW.html
+2,2024,"Wed, Oct 25, 2023",HOU,ORL,Kia Center,/boxscores/202310250ORL.html
+3,2024,"Wed, Oct 25, 2023",BOS,NYK,Madison Square Garden (IV),/boxscores/202310250NYK.html
+4,2024,"Wed, Oct 25, 2023",WAS,IND,Gainbridge Fieldhouse,/boxscores/202310250IND.html
+5,2024,"Wed, Oct 25, 2023",ATL,CHO,Spectrum Center,/boxscores/202310250CHO.html
+6,2024,"Wed, Oct 25, 2023",DET,MIA,Kaseya Center,/boxscores/202310250MIA.html
+7,2024,"Wed, Oct 25, 2023",MIN,TOR,Scotiabank Arena,/boxscores/202310250TOR.html
+8,2024,"Wed, Oct 25, 2023",CLE,BRK,Barclays Center,/boxscores/202310250BRK.html
+9,2024,"Wed, Oct 25, 2023",NOP,MEM,FedEx Forum,/boxscores/202310250MEM.html
+10,2024,"Wed, Oct 25, 2023",OKC,CHI,United Center,/boxscores/202310250CHI.html
+11,2024,"Wed, Oct 25, 2023",SAC,UTA,Delta Center,/boxscores/202310250UTA.html
+12,2024,"Wed, Oct 25, 2023",DAL,SAS,Frost Bank Center,/boxscores/202310250SAS.html
+13,2024,"Wed, Oct 25, 2023",POR,LAC,Crypto.com Arena,/boxscores/202310250LAC.html
+14,2024,"Thu, Oct 26, 2023",PHI,MIL,Fiserv Forum,/boxscores/202310260MIL.html
+15,2024,"Thu, Oct 26, 2023",PHO,LAL,Crypto.com Arena,/boxscores/202310260LAL.html
+16,2024,"Fri, Oct 27, 2023",DEN,MEM,FedEx Forum,/boxscores/202310270MEM.html
+17,2024,"Fri, Oct 27, 2023",DET,CHO,Spectrum Center,/boxscores/202310270CHO.html
+18,2024,"Fri, Oct 27, 2023",NYK,ATL,State Farm Arena,/boxscores/202310270ATL.html
+19,2024,"Fri, Oct 27, 2023",OKC,CLE,Rocket Mortgage Fieldhouse,/boxscores/202310270CLE.html
+20,2024,"Fri, Oct 27, 2023",MIA,BOS,TD Garden,/boxscores/202310270BOS.html
+21,2024,"Fri, Oct 27, 2023",TOR,CHI,United Center,/boxscores/202310270CHI.html
+22,2024,"Fri, Oct 27, 2023",HOU,SAS,Frost Bank Center,/boxscores/202310270SAS.html
+23,2024,"Fri, Oct 27, 2023",BRK,DAL,American Airlines Center,/boxscores/202310270DAL.html
+24,2024,"Fri, Oct 27, 2023",LAC,UTA,Delta Center,/boxscores/202310270UTA.html
+25,2024,"Fri, Oct 27, 2023",ORL,POR,Moda Center,/boxscores/202310270POR.html
+26,2024,"Fri, Oct 27, 2023",GSW,SAC,Golden 1 Center,/boxscores/202310270SAC.html
+27,2024,"Sat, Oct 28, 2023",CHI,DET,Little Caesars Arena,/boxscores/202310280DET.html
+28,2024,"Sat, Oct 28, 2023",MEM,WAS,Capital One Arena,/boxscores/202310280WAS.html
+29,2024,"Sat, Oct 28, 2023",NYK,NOP,Smoothie King Center,/boxscores/202310280NOP.html
+30,2024,"Sat, Oct 28, 2023",IND,CLE,Rocket Mortgage Fieldhouse,/boxscores/202310280CLE.html
+31,2024,"Sat, Oct 28, 2023",PHI,TOR,Scotiabank Arena,/boxscores/202310280TOR.html
+32,2024,"Sat, Oct 28, 2023",MIA,MIN,Target Center,/boxscores/202310280MIN.html
+33,2024,"Sat, Oct 28, 2023",UTA,PHO,Footprint Center,/boxscores/202310280PHO.html
+34,2024,"Sun, Oct 29, 2023",DEN,OKC,Paycom Center,/boxscores/202310290OKC.html
+35,2024,"Sun, Oct 29, 2023",GSW,HOU,Toyota Center,/boxscores/202310290HOU.html
+36,2024,"Sun, Oct 29, 2023",ATL,MIL,Fiserv Forum,/boxscores/202310290MIL.html
+37,2024,"Sun, Oct 29, 2023",POR,PHI,Wells Fargo Center,/boxscores/202310290PHI.html
+38,2024,"Sun, Oct 29, 2023",SAS,LAC,Crypto.com Arena,/boxscores/202310290LAC.html
+39,2024,"Sun, Oct 29, 2023",LAL,SAC,Golden 1 Center,/boxscores/202310290SAC.html
+40,2024,"Mon, Oct 30, 2023",CHI,IND,Gainbridge Fieldhouse,/boxscores/202310300IND.html
+41,2024,"Mon, Oct 30, 2023",BOS,WAS,Capital One Arena,/boxscores/202310300WAS.html
+42,2024,"Mon, Oct 30, 2023",BRK,CHO,Spectrum Center,/boxscores/202310300CHO.html
+43,2024,"Mon, Oct 30, 2023",POR,TOR,Scotiabank Arena,/boxscores/202310300TOR.html
+44,2024,"Mon, Oct 30, 2023",MIN,ATL,State Farm Arena,/boxscores/202310300ATL.html
+45,2024,"Mon, Oct 30, 2023",DAL,MEM,FedEx Forum,/boxscores/202310300MEM.html
+46,2024,"Mon, Oct 30, 2023",MIA,MIL,Fiserv Forum,/boxscores/202310300MIL.html
+47,2024,"Mon, Oct 30, 2023",GSW,NOP,Smoothie King Center,/boxscores/202310300NOP.html
+48,2024,"Mon, Oct 30, 2023",DET,OKC,Paycom Center,/boxscores/202310300OKC.html
+49,2024,"Mon, Oct 30, 2023",UTA,DEN,Ball Arena,/boxscores/202310300DEN.html
+50,2024,"Mon, Oct 30, 2023",ORL,LAL,Crypto.com Arena,/boxscores/202310300LAL.html
+51,2024,"Tue, Oct 31, 2023",NYK,CLE,Rocket Mortgage Fieldhouse,/boxscores/202310310CLE.html
+52,2024,"Tue, Oct 31, 2023",SAS,PHO,Footprint Center,/boxscores/202310310PHO.html
+53,2024,"Tue, Oct 31, 2023",ORL,LAC,Crypto.com Arena,/boxscores/202310310LAC.html
+54,2024,"Wed, Nov 1, 2023",POR,DET,Little Caesars Arena,/boxscores/202311010DET.html
+55,2024,"Wed, Nov 1, 2023",MIL,TOR,Scotiabank Arena,/boxscores/202311010TOR.html
+56,2024,"Wed, Nov 1, 2023",WAS,ATL,State Farm Arena,/boxscores/202311010ATL.html
+57,2024,"Wed, Nov 1, 2023",IND,BOS,TD Garden,/boxscores/202311010BOS.html
+58,2024,"Wed, Nov 1, 2023",BRK,MIA,Kaseya Center,/boxscores/202311010MIA.html
+59,2024,"Wed, Nov 1, 2023",CLE,NYK,Madison Square Garden (IV),/boxscores/202311010NYK.html
+60,2024,"Wed, Nov 1, 2023",NOP,OKC,Paycom Center,/boxscores/202311010OKC.html
+61,2024,"Wed, Nov 1, 2023",CHO,HOU,Toyota Center,/boxscores/202311010HOU.html
+62,2024,"Wed, Nov 1, 2023",DEN,MIN,Target Center,/boxscores/202311010MIN.html
+63,2024,"Wed, Nov 1, 2023",CHI,DAL,American Airlines Center,/boxscores/202311010DAL.html
+64,2024,"Wed, Nov 1, 2023",MEM,UTA,Delta Center,/boxscores/202311010UTA.html
+65,2024,"Wed, Nov 1, 2023",SAC,GSW,Chase Center,/boxscores/202311010GSW.html
+66,2024,"Wed, Nov 1, 2023",LAC,LAL,Crypto.com Arena,/boxscores/202311010LAL.html
+67,2024,"Thu, Nov 2, 2023",TOR,PHI,Wells Fargo Center,/boxscores/202311020PHI.html
+68,2024,"Thu, Nov 2, 2023",DET,NOP,Smoothie King Center,/boxscores/202311020NOP.html
+69,2024,"Thu, Nov 2, 2023",ORL,UTA,Delta Center,/boxscores/202311020UTA.html
+70,2024,"Thu, Nov 2, 2023",SAS,PHO,Footprint Center,/boxscores/202311020PHO.html
+71,2024,"Fri, Nov 3, 2023",CLE,IND,Gainbridge Fieldhouse,/boxscores/202311030IND.html
+72,2024,"Fri, Nov 3, 2023",NYK,MIL,Fiserv Forum,/boxscores/202311030MIL.html
+73,2024,"Fri, Nov 3, 2023",BRK,CHI,United Center,/boxscores/202311030CHI.html
+74,2024,"Fri, Nov 3, 2023",WAS,MIA,Kaseya Center,/boxscores/202311030MIA.html
+75,2024,"Fri, Nov 3, 2023",GSW,OKC,Paycom Center,/boxscores/202311030OKC.html
+76,2024,"Fri, Nov 3, 2023",DAL,DEN,Ball Arena,/boxscores/202311030DEN.html
+77,2024,"Fri, Nov 3, 2023",MEM,POR,Moda Center,/boxscores/202311030POR.html
+78,2024,"Sat, Nov 4, 2023",PHO,PHI,Wells Fargo Center,/boxscores/202311040PHI.html
+79,2024,"Sat, Nov 4, 2023",CHO,IND,Gainbridge Fieldhouse,/boxscores/202311040IND.html
+80,2024,"Sat, Nov 4, 2023",ATL,NOP,Smoothie King Center,/boxscores/202311040NOP.html
+81,2024,"Sat, Nov 4, 2023",LAL,ORL,Kia Center,/boxscores/202311040ORL.html
+82,2024,"Sat, Nov 4, 2023",BOS,BRK,Barclays Center,/boxscores/202311040BRK.html
+83,2024,"Sat, Nov 4, 2023",SAC,HOU,Toyota Center,/boxscores/202311040HOU.html
+84,2024,"Sat, Nov 4, 2023",UTA,MIN,Target Center,/boxscores/202311040MIN.html
+85,2024,"Sat, Nov 4, 2023",CHI,DEN,Ball Arena,/boxscores/202311040DEN.html
+86,2024,"Sun, Nov 5, 2023",PHO,DET,Little Caesars Arena,/boxscores/202311050DET.html
+87,2024,"Sun, Nov 5, 2023",TOR,SAS,Frost Bank Center,/boxscores/202311050SAS.html
+88,2024,"Sun, Nov 5, 2023",GSW,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311050CLE.html
+89,2024,"Sun, Nov 5, 2023",CHO,DAL,American Airlines Center,/boxscores/202311050DAL.html
+90,2024,"Sun, Nov 5, 2023",MEM,POR,Moda Center,/boxscores/202311050POR.html
+91,2024,"Mon, Nov 6, 2023",GSW,DET,Little Caesars Arena,/boxscores/202311060DET.html
+92,2024,"Mon, Nov 6, 2023",SAS,IND,Gainbridge Fieldhouse,/boxscores/202311060IND.html
+93,2024,"Mon, Nov 6, 2023",DAL,ORL,Kia Center,/boxscores/202311060ORL.html
+94,2024,"Mon, Nov 6, 2023",WAS,PHI,Wells Fargo Center,/boxscores/202311060PHI.html
+95,2024,"Mon, Nov 6, 2023",MIL,BRK,Barclays Center,/boxscores/202311060BRK.html
+96,2024,"Mon, Nov 6, 2023",LAL,MIA,Kaseya Center,/boxscores/202311060MIA.html
+97,2024,"Mon, Nov 6, 2023",LAC,NYK,Madison Square Garden (IV),/boxscores/202311060NYK.html
+98,2024,"Mon, Nov 6, 2023",UTA,CHI,United Center,/boxscores/202311060CHI.html
+99,2024,"Mon, Nov 6, 2023",SAC,HOU,Toyota Center,/boxscores/202311060HOU.html
+100,2024,"Mon, Nov 6, 2023",BOS,MIN,Target Center,/boxscores/202311060MIN.html
+101,2024,"Mon, Nov 6, 2023",ATL,OKC,Paycom Center,/boxscores/202311060OKC.html
+102,2024,"Mon, Nov 6, 2023",NOP,DEN,Ball Arena,/boxscores/202311060DEN.html
+103,2024,"Wed, Nov 8, 2023",WAS,CHO,Spectrum Center,/boxscores/202311080CHO.html
+104,2024,"Wed, Nov 8, 2023",UTA,IND,Gainbridge Fieldhouse,/boxscores/202311080IND.html
+105,2024,"Wed, Nov 8, 2023",BOS,PHI,Wells Fargo Center,/boxscores/202311080PHI.html
+106,2024,"Wed, Nov 8, 2023",LAC,BRK,Barclays Center,/boxscores/202311080BRK.html
+107,2024,"Wed, Nov 8, 2023",SAS,NYK,Madison Square Garden (IV),/boxscores/202311080NYK.html
+108,2024,"Wed, Nov 8, 2023",PHO,CHI,United Center,/boxscores/202311080CHI.html
+109,2024,"Wed, Nov 8, 2023",LAL,HOU,Toyota Center,/boxscores/202311080HOU.html
+110,2024,"Wed, Nov 8, 2023",MIA,MEM,FedEx Forum,/boxscores/202311080MEM.html
+111,2024,"Wed, Nov 8, 2023",DET,MIL,Fiserv Forum,/boxscores/202311080MIL.html
+112,2024,"Wed, Nov 8, 2023",NOP,MIN,Target Center,/boxscores/202311080MIN.html
+113,2024,"Wed, Nov 8, 2023",CLE,OKC,Paycom Center,/boxscores/202311080OKC.html
+114,2024,"Wed, Nov 8, 2023",TOR,DAL,American Airlines Center,/boxscores/202311080DAL.html
+115,2024,"Wed, Nov 8, 2023",GSW,DEN,Ball Arena,/boxscores/202311080DEN.html
+116,2024,"Wed, Nov 8, 2023",POR,SAC,Golden 1 Center,/boxscores/202311080SAC.html
+117,2024,"Thu, Nov 9, 2023",MIL,IND,Gainbridge Fieldhouse,/boxscores/202311090IND.html
+118,2024,"Thu, Nov 9, 2023",ATL,ORL,Mexico City Arena,/boxscores/202311090ORL.html
+119,2024,"Fri, Nov 10, 2023",PHI,DET,Little Caesars Arena,/boxscores/202311100DET.html
+120,2024,"Fri, Nov 10, 2023",CHO,WAS,Capital One Arena,/boxscores/202311100WAS.html
+121,2024,"Fri, Nov 10, 2023",BRK,BOS,TD Garden,/boxscores/202311100BOS.html
+122,2024,"Fri, Nov 10, 2023",NOP,HOU,Toyota Center,/boxscores/202311100HOU.html
+123,2024,"Fri, Nov 10, 2023",UTA,MEM,FedEx Forum,/boxscores/202311100MEM.html
+124,2024,"Fri, Nov 10, 2023",MIN,SAS,Frost Bank Center,/boxscores/202311100SAS.html
+125,2024,"Fri, Nov 10, 2023",LAC,DAL,American Airlines Center,/boxscores/202311100DAL.html
+126,2024,"Fri, Nov 10, 2023",LAL,PHO,Footprint Center,/boxscores/202311100PHO.html
+127,2024,"Fri, Nov 10, 2023",OKC,SAC,Golden 1 Center,/boxscores/202311100SAC.html
+128,2024,"Sat, Nov 11, 2023",MIL,ORL,Kia Center,/boxscores/202311110ORL.html
+129,2024,"Sat, Nov 11, 2023",TOR,BOS,TD Garden,/boxscores/202311110BOS.html
+130,2024,"Sat, Nov 11, 2023",MIA,ATL,State Farm Arena,/boxscores/202311110ATL.html
+131,2024,"Sat, Nov 11, 2023",CLE,GSW,Chase Center,/boxscores/202311110GSW.html
+132,2024,"Sun, Nov 12, 2023",CHO,NYK,Madison Square Garden (IV),/boxscores/202311120NYK.html
+133,2024,"Sun, Nov 12, 2023",WAS,BRK,Barclays Center,/boxscores/202311120BRK.html
+134,2024,"Sun, Nov 12, 2023",MEM,LAC,Crypto.com Arena,/boxscores/202311120LAC.html
+135,2024,"Sun, Nov 12, 2023",IND,PHI,Wells Fargo Center,/boxscores/202311120PHI.html
+136,2024,"Sun, Nov 12, 2023",DET,CHI,United Center,/boxscores/202311120CHI.html
+137,2024,"Sun, Nov 12, 2023",DEN,HOU,Toyota Center,/boxscores/202311120HOU.html
+138,2024,"Sun, Nov 12, 2023",DAL,NOP,Smoothie King Center,/boxscores/202311120NOP.html
+139,2024,"Sun, Nov 12, 2023",MIA,SAS,Frost Bank Center,/boxscores/202311120SAS.html
+140,2024,"Sun, Nov 12, 2023",OKC,PHO,Footprint Center,/boxscores/202311120PHO.html
+141,2024,"Sun, Nov 12, 2023",MIN,GSW,Chase Center,/boxscores/202311120GSW.html
+142,2024,"Sun, Nov 12, 2023",POR,LAL,Crypto.com Arena,/boxscores/202311120LAL.html
+143,2024,"Mon, Nov 13, 2023",NYK,BOS,TD Garden,/boxscores/202311130BOS.html
+144,2024,"Mon, Nov 13, 2023",WAS,TOR,Scotiabank Arena,/boxscores/202311130TOR.html
+145,2024,"Mon, Nov 13, 2023",CHI,MIL,Fiserv Forum,/boxscores/202311130MIL.html
+146,2024,"Mon, Nov 13, 2023",CLE,SAC,Golden 1 Center,/boxscores/202311130SAC.html
+147,2024,"Tue, Nov 14, 2023",MIA,CHO,Spectrum Center,/boxscores/202311140CHO.html
+148,2024,"Tue, Nov 14, 2023",ATL,DET,Little Caesars Arena,/boxscores/202311140DET.html
+149,2024,"Tue, Nov 14, 2023",IND,PHI,Wells Fargo Center,/boxscores/202311140PHI.html
+150,2024,"Tue, Nov 14, 2023",ORL,BRK,Barclays Center,/boxscores/202311140BRK.html
+151,2024,"Tue, Nov 14, 2023",SAS,OKC,Paycom Center,/boxscores/202311140OKC.html
+152,2024,"Tue, Nov 14, 2023",DAL,NOP,Smoothie King Center,/boxscores/202311140NOP.html
+153,2024,"Tue, Nov 14, 2023",POR,UTA,Delta Center,/boxscores/202311140UTA.html
+154,2024,"Tue, Nov 14, 2023",LAC,DEN,Ball Arena,/boxscores/202311140DEN.html
+155,2024,"Tue, Nov 14, 2023",MIN,GSW,Chase Center,/boxscores/202311140GSW.html
+156,2024,"Tue, Nov 14, 2023",MEM,LAL,Crypto.com Arena,/boxscores/202311140LAL.html
+157,2024,"Wed, Nov 15, 2023",DAL,WAS,Capital One Arena,/boxscores/202311150WAS.html
+158,2024,"Wed, Nov 15, 2023",NYK,ATL,State Farm Arena,/boxscores/202311150ATL.html
+159,2024,"Wed, Nov 15, 2023",BOS,PHI,Wells Fargo Center,/boxscores/202311150PHI.html
+160,2024,"Wed, Nov 15, 2023",MIL,TOR,Scotiabank Arena,/boxscores/202311150TOR.html
+161,2024,"Wed, Nov 15, 2023",ORL,CHI,United Center,/boxscores/202311150CHI.html
+162,2024,"Wed, Nov 15, 2023",MIN,PHO,Footprint Center,/boxscores/202311150PHO.html
+163,2024,"Wed, Nov 15, 2023",SAC,LAL,Crypto.com Arena,/boxscores/202311150LAL.html
+164,2024,"Wed, Nov 15, 2023",CLE,POR,Moda Center,/boxscores/202311150POR.html
+165,2024,"Thu, Nov 16, 2023",BRK,MIA,Kaseya Center,/boxscores/202311160MIA.html
+166,2024,"Thu, Nov 16, 2023",OKC,GSW,Chase Center,/boxscores/202311160GSW.html
+167,2024,"Fri, Nov 17, 2023",MIL,CHO,Spectrum Center,/boxscores/202311170CHO.html
+168,2024,"Fri, Nov 17, 2023",NYK,WAS,Capital One Arena,/boxscores/202311170WAS.html
+169,2024,"Fri, Nov 17, 2023",PHI,ATL,State Farm Arena,/boxscores/202311170ATL.html
+170,2024,"Fri, Nov 17, 2023",DET,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311170CLE.html
+171,2024,"Fri, Nov 17, 2023",SAC,SAS,Frost Bank Center,/boxscores/202311170SAS.html
+172,2024,"Fri, Nov 17, 2023",BOS,TOR,Scotiabank Arena,/boxscores/202311170TOR.html
+173,2024,"Fri, Nov 17, 2023",ORL,CHI,United Center,/boxscores/202311170CHI.html
+174,2024,"Fri, Nov 17, 2023",DEN,NOP,Smoothie King Center,/boxscores/202311170NOP.html
+175,2024,"Fri, Nov 17, 2023",LAL,POR,Moda Center,/boxscores/202311170POR.html
+176,2024,"Fri, Nov 17, 2023",PHO,UTA,Delta Center,/boxscores/202311170UTA.html
+177,2024,"Fri, Nov 17, 2023",HOU,LAC,Crypto.com Arena,/boxscores/202311170LAC.html
+178,2024,"Sat, Nov 18, 2023",NYK,CHO,Spectrum Center,/boxscores/202311180CHO.html
+179,2024,"Sat, Nov 18, 2023",MIN,NOP,Smoothie King Center,/boxscores/202311180NOP.html
+180,2024,"Sat, Nov 18, 2023",MIA,CHI,United Center,/boxscores/202311180CHI.html
+181,2024,"Sat, Nov 18, 2023",DAL,MIL,Fiserv Forum,/boxscores/202311180MIL.html
+182,2024,"Sat, Nov 18, 2023",MEM,SAS,Frost Bank Center,/boxscores/202311180SAS.html
+183,2024,"Sat, Nov 18, 2023",OKC,GSW,Chase Center,/boxscores/202311180GSW.html
+184,2024,"Sun, Nov 19, 2023",PHI,BRK,Barclays Center,/boxscores/202311190BRK.html
+185,2024,"Sun, Nov 19, 2023",DET,TOR,Scotiabank Arena,/boxscores/202311190TOR.html
+186,2024,"Sun, Nov 19, 2023",ORL,IND,Gainbridge Fieldhouse,/boxscores/202311190IND.html
+187,2024,"Sun, Nov 19, 2023",DEN,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311190CLE.html
+188,2024,"Sun, Nov 19, 2023",SAC,DAL,American Airlines Center,/boxscores/202311190DAL.html
+189,2024,"Sun, Nov 19, 2023",BOS,MEM,FedEx Forum,/boxscores/202311190MEM.html
+190,2024,"Sun, Nov 19, 2023",PHO,UTA,Delta Center,/boxscores/202311190UTA.html
+191,2024,"Sun, Nov 19, 2023",OKC,POR,Moda Center,/boxscores/202311190POR.html
+192,2024,"Sun, Nov 19, 2023",HOU,LAL,Crypto.com Arena,/boxscores/202311190LAL.html
+193,2024,"Mon, Nov 20, 2023",BOS,CHO,Spectrum Center,/boxscores/202311200CHO.html
+194,2024,"Mon, Nov 20, 2023",DEN,DET,Little Caesars Arena,/boxscores/202311200DET.html
+195,2024,"Mon, Nov 20, 2023",MIL,WAS,Capital One Arena,/boxscores/202311200WAS.html
+196,2024,"Mon, Nov 20, 2023",MIA,CHI,United Center,/boxscores/202311200CHI.html
+197,2024,"Mon, Nov 20, 2023",NYK,MIN,Target Center,/boxscores/202311200MIN.html
+198,2024,"Mon, Nov 20, 2023",SAC,NOP,Smoothie King Center,/boxscores/202311200NOP.html
+199,2024,"Mon, Nov 20, 2023",LAC,SAS,Frost Bank Center,/boxscores/202311200SAS.html
+200,2024,"Mon, Nov 20, 2023",HOU,GSW,Chase Center,/boxscores/202311200GSW.html
+201,2024,"Tue, Nov 21, 2023",TOR,ORL,Kia Center,/boxscores/202311210ORL.html
+202,2024,"Tue, Nov 21, 2023",IND,ATL,State Farm Arena,/boxscores/202311210ATL.html
+203,2024,"Tue, Nov 21, 2023",CLE,PHI,Wells Fargo Center,/boxscores/202311210PHI.html
+204,2024,"Tue, Nov 21, 2023",POR,PHO,Footprint Center,/boxscores/202311210PHO.html
+205,2024,"Tue, Nov 21, 2023",UTA,LAL,Crypto.com Arena,/boxscores/202311210LAL.html
+206,2024,"Wed, Nov 22, 2023",WAS,CHO,Spectrum Center,/boxscores/202311220CHO.html
+207,2024,"Wed, Nov 22, 2023",DEN,ORL,Kia Center,/boxscores/202311220ORL.html
+208,2024,"Wed, Nov 22, 2023",BRK,ATL,State Farm Arena,/boxscores/202311220ATL.html
+209,2024,"Wed, Nov 22, 2023",MIL,BOS,TD Garden,/boxscores/202311220BOS.html
+210,2024,"Wed, Nov 22, 2023",MIA,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311220CLE.html
+211,2024,"Wed, Nov 22, 2023",TOR,IND,Gainbridge Fieldhouse,/boxscores/202311220IND.html
+212,2024,"Wed, Nov 22, 2023",MEM,HOU,Toyota Center,/boxscores/202311220HOU.html
+213,2024,"Wed, Nov 22, 2023",PHI,MIN,Target Center,/boxscores/202311220MIN.html
+214,2024,"Wed, Nov 22, 2023",SAC,NOP,Smoothie King Center,/boxscores/202311220NOP.html
+215,2024,"Wed, Nov 22, 2023",CHI,OKC,Paycom Center,/boxscores/202311220OKC.html
+216,2024,"Wed, Nov 22, 2023",LAC,SAS,Frost Bank Center,/boxscores/202311220SAS.html
+217,2024,"Wed, Nov 22, 2023",GSW,PHO,Footprint Center,/boxscores/202311220PHO.html
+218,2024,"Wed, Nov 22, 2023",UTA,POR,Moda Center,/boxscores/202311220POR.html
+219,2024,"Wed, Nov 22, 2023",DAL,LAL,Crypto.com Arena,/boxscores/202311220LAL.html
+220,2024,"Fri, Nov 24, 2023",BOS,ORL,Kia Center,/boxscores/202311240ORL.html
+221,2024,"Fri, Nov 24, 2023",PHO,MEM,FedEx Forum,/boxscores/202311240MEM.html
+222,2024,"Fri, Nov 24, 2023",MIA,NYK,Madison Square Garden (IV),/boxscores/202311240NYK.html
+223,2024,"Fri, Nov 24, 2023",CHI,TOR,Scotiabank Arena,/boxscores/202311240TOR.html
+224,2024,"Fri, Nov 24, 2023",DEN,HOU,Toyota Center,/boxscores/202311240HOU.html
+225,2024,"Fri, Nov 24, 2023",DET,IND,Gainbridge Fieldhouse,/boxscores/202311240IND.html
+226,2024,"Fri, Nov 24, 2023",WAS,MIL,Fiserv Forum,/boxscores/202311240MIL.html
+227,2024,"Fri, Nov 24, 2023",SAC,MIN,Target Center,/boxscores/202311240MIN.html
+228,2024,"Fri, Nov 24, 2023",SAS,GSW,Chase Center,/boxscores/202311240GSW.html
+229,2024,"Fri, Nov 24, 2023",NOP,LAC,Crypto.com Arena,/boxscores/202311240LAC.html
+230,2024,"Sat, Nov 25, 2023",PHI,OKC,Paycom Center,/boxscores/202311250OKC.html
+231,2024,"Sat, Nov 25, 2023",MIA,BRK,Barclays Center,/boxscores/202311250BRK.html
+232,2024,"Sat, Nov 25, 2023",ATL,WAS,Capital One Arena,/boxscores/202311250WAS.html
+233,2024,"Sat, Nov 25, 2023",LAL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311250CLE.html
+234,2024,"Sat, Nov 25, 2023",NOP,UTA,Delta Center,/boxscores/202311250UTA.html
+235,2024,"Sat, Nov 25, 2023",DAL,LAC,Crypto.com Arena,/boxscores/202311250LAC.html
+236,2024,"Sun, Nov 26, 2023",POR,MIL,Fiserv Forum,/boxscores/202311260MIL.html
+237,2024,"Sun, Nov 26, 2023",ATL,BOS,TD Garden,/boxscores/202311260BOS.html
+238,2024,"Sun, Nov 26, 2023",MIN,MEM,FedEx Forum,/boxscores/202311260MEM.html
+239,2024,"Sun, Nov 26, 2023",PHO,NYK,Madison Square Garden (IV),/boxscores/202311260NYK.html
+240,2024,"Sun, Nov 26, 2023",CHO,ORL,Kia Center,/boxscores/202311260ORL.html
+241,2024,"Sun, Nov 26, 2023",CHI,BRK,Barclays Center,/boxscores/202311260BRK.html
+242,2024,"Sun, Nov 26, 2023",TOR,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311260CLE.html
+243,2024,"Sun, Nov 26, 2023",SAS,DEN,Ball Arena,/boxscores/202311260DEN.html
+244,2024,"Mon, Nov 27, 2023",WAS,DET,Little Caesars Arena,/boxscores/202311270DET.html
+245,2024,"Mon, Nov 27, 2023",POR,IND,Gainbridge Fieldhouse,/boxscores/202311270IND.html
+246,2024,"Mon, Nov 27, 2023",LAL,PHI,Wells Fargo Center,/boxscores/202311270PHI.html
+247,2024,"Mon, Nov 27, 2023",NOP,UTA,Delta Center,/boxscores/202311270UTA.html
+248,2024,"Mon, Nov 27, 2023",DEN,LAC,Crypto.com Arena,/boxscores/202311270LAC.html
+249,2024,"Tue, Nov 28, 2023",CHI,BOS,TD Garden,/boxscores/202311280BOS.html
+250,2024,"Tue, Nov 28, 2023",TOR,BRK,Barclays Center,/boxscores/202311280BRK.html
+251,2024,"Tue, Nov 28, 2023",ATL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311280CLE.html
+252,2024,"Tue, Nov 28, 2023",MIL,MIA,Kaseya Center,/boxscores/202311280MIA.html
+253,2024,"Tue, Nov 28, 2023",CHO,NYK,Madison Square Garden (IV),/boxscores/202311280NYK.html
+254,2024,"Tue, Nov 28, 2023",OKC,MIN,Target Center,/boxscores/202311280MIN.html
+255,2024,"Tue, Nov 28, 2023",HOU,DAL,American Airlines Center,/boxscores/202311280DAL.html
+256,2024,"Tue, Nov 28, 2023",GSW,SAC,Golden 1 Center,/boxscores/202311280SAC.html
+257,2024,"Wed, Nov 29, 2023",LAL,DET,Little Caesars Arena,/boxscores/202311290DET.html
+258,2024,"Wed, Nov 29, 2023",WAS,ORL,Kia Center,/boxscores/202311290ORL.html
+259,2024,"Wed, Nov 29, 2023",PHO,TOR,Scotiabank Arena,/boxscores/202311290TOR.html
+260,2024,"Wed, Nov 29, 2023",UTA,MEM,FedEx Forum,/boxscores/202311290MEM.html
+261,2024,"Wed, Nov 29, 2023",PHI,NOP,Smoothie King Center,/boxscores/202311290NOP.html
+262,2024,"Wed, Nov 29, 2023",HOU,DEN,Ball Arena,/boxscores/202311290DEN.html
+263,2024,"Wed, Nov 29, 2023",LAC,SAC,Golden 1 Center,/boxscores/202311290SAC.html
+264,2024,"Thu, Nov 30, 2023",POR,CLE,Rocket Mortgage Fieldhouse,/boxscores/202311300CLE.html
+265,2024,"Thu, Nov 30, 2023",CHO,BRK,Barclays Center,/boxscores/202311300BRK.html
+266,2024,"Thu, Nov 30, 2023",IND,MIA,Kaseya Center,/boxscores/202311300MIA.html
+267,2024,"Thu, Nov 30, 2023",DET,NYK,Madison Square Garden (IV),/boxscores/202311300NYK.html
+268,2024,"Thu, Nov 30, 2023",MIL,CHI,United Center,/boxscores/202311300CHI.html
+269,2024,"Thu, Nov 30, 2023",UTA,MIN,Target Center,/boxscores/202311300MIN.html
+270,2024,"Thu, Nov 30, 2023",LAL,OKC,Paycom Center,/boxscores/202311300OKC.html
+271,2024,"Thu, Nov 30, 2023",ATL,SAS,Frost Bank Center,/boxscores/202311300SAS.html
+272,2024,"Thu, Nov 30, 2023",LAC,GSW,Chase Center,/boxscores/202311300GSW.html
+273,2024,"Fri, Dec 1, 2023",WAS,ORL,Kia Center,/boxscores/202312010ORL.html
+274,2024,"Fri, Dec 1, 2023",PHI,BOS,TD Garden,/boxscores/202312010BOS.html
+275,2024,"Fri, Dec 1, 2023",MEM,DAL,American Airlines Center,/boxscores/202312010DAL.html
+276,2024,"Fri, Dec 1, 2023",NYK,TOR,Scotiabank Arena,/boxscores/202312010TOR.html
+277,2024,"Fri, Dec 1, 2023",SAS,NOP,Smoothie King Center,/boxscores/202312010NOP.html
+278,2024,"Fri, Dec 1, 2023",DEN,PHO,Footprint Center,/boxscores/202312010PHO.html
+279,2024,"Sat, Dec 2, 2023",GSW,LAC,Crypto.com Arena,/boxscores/202312020LAC.html
+280,2024,"Sat, Dec 2, 2023",MIN,CHO,Spectrum Center,/boxscores/202312020CHO.html
+281,2024,"Sat, Dec 2, 2023",ORL,BRK,Barclays Center,/boxscores/202312020BRK.html
+282,2024,"Sat, Dec 2, 2023",CLE,DET,Little Caesars Arena,/boxscores/202312020DET.html
+283,2024,"Sat, Dec 2, 2023",NOP,CHI,United Center,/boxscores/202312020CHI.html
+284,2024,"Sat, Dec 2, 2023",IND,MIA,Kaseya Center,/boxscores/202312020MIA.html
+285,2024,"Sat, Dec 2, 2023",ATL,MIL,Fiserv Forum,/boxscores/202312020MIL.html
+286,2024,"Sat, Dec 2, 2023",OKC,DAL,American Airlines Center,/boxscores/202312020DAL.html
+287,2024,"Sat, Dec 2, 2023",MEM,PHO,Footprint Center,/boxscores/202312020PHO.html
+288,2024,"Sat, Dec 2, 2023",POR,UTA,Delta Center,/boxscores/202312020UTA.html
+289,2024,"Sat, Dec 2, 2023",DEN,SAC,Golden 1 Center,/boxscores/202312020SAC.html
+290,2024,"Sat, Dec 2, 2023",HOU,LAL,Crypto.com Arena,/boxscores/202312020LAL.html
+291,2024,"Mon, Dec 4, 2023",BOS,IND,Gainbridge Fieldhouse,/boxscores/202312040IND.html
+292,2024,"Mon, Dec 4, 2023",NOP,SAC,Golden 1 Center,/boxscores/202312040SAC.html
+293,2024,"Tue, Dec 5, 2023",NYK,MIL,Fiserv Forum,/boxscores/202312050MIL.html
+294,2024,"Tue, Dec 5, 2023",PHO,LAL,Crypto.com Arena,/boxscores/202312050LAL.html
+295,2024,"Wed, Dec 6, 2023",ORL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202312060CLE.html
+296,2024,"Wed, Dec 6, 2023",MEM,DET,Little Caesars Arena,/boxscores/202312060DET.html
+297,2024,"Wed, Dec 6, 2023",PHI,WAS,Capital One Arena,/boxscores/202312060WAS.html
+298,2024,"Wed, Dec 6, 2023",BRK,ATL,State Farm Arena,/boxscores/202312060ATL.html
+299,2024,"Wed, Dec 6, 2023",SAS,MIN,Target Center,/boxscores/202312060MIN.html
+300,2024,"Wed, Dec 6, 2023",MIA,TOR,Scotiabank Arena,/boxscores/202312060TOR.html
+301,2024,"Wed, Dec 6, 2023",CHO,CHI,United Center,/boxscores/202312060CHI.html
+302,2024,"Wed, Dec 6, 2023",OKC,HOU,Toyota Center,/boxscores/202312060HOU.html
+303,2024,"Wed, Dec 6, 2023",UTA,DAL,American Airlines Center,/boxscores/202312060DAL.html
+304,2024,"Wed, Dec 6, 2023",POR,GSW,Chase Center,/boxscores/202312060GSW.html
+305,2024,"Wed, Dec 6, 2023",DEN,LAC,Crypto.com Arena,/boxscores/202312060LAC.html
+306,2024,"Thu, Dec 7, 2023",IND,MIL,T-Mobile Arena,/boxscores/202312070MIL.html
+307,2024,"Thu, Dec 7, 2023",NOP,LAL,T-Mobile Arena,/boxscores/202312070LAL.html
+308,2024,"Fri, Dec 8, 2023",TOR,CHO,Spectrum Center,/boxscores/202312080CHO.html
+309,2024,"Fri, Dec 8, 2023",DET,ORL,Kia Center,/boxscores/202312080ORL.html
+310,2024,"Fri, Dec 8, 2023",ATL,PHI,Wells Fargo Center,/boxscores/202312080PHI.html
+311,2024,"Fri, Dec 8, 2023",NYK,BOS,TD Garden,/boxscores/202312080BOS.html
+312,2024,"Fri, Dec 8, 2023",WAS,BRK,Barclays Center,/boxscores/202312080BRK.html
+313,2024,"Fri, Dec 8, 2023",MIN,MEM,FedEx Forum,/boxscores/202312080MEM.html
+314,2024,"Fri, Dec 8, 2023",CLE,MIA,Kaseya Center,/boxscores/202312080MIA.html
+315,2024,"Fri, Dec 8, 2023",GSW,OKC,Paycom Center,/boxscores/202312080OKC.html
+316,2024,"Fri, Dec 8, 2023",CHI,SAS,Frost Bank Center,/boxscores/202312080SAS.html
+317,2024,"Fri, Dec 8, 2023",HOU,DEN,Ball Arena,/boxscores/202312080DEN.html
+318,2024,"Fri, Dec 8, 2023",SAC,PHO,Footprint Center,/boxscores/202312080PHO.html
+319,2024,"Fri, Dec 8, 2023",DAL,POR,Moda Center,/boxscores/202312080POR.html
+320,2024,"Fri, Dec 8, 2023",LAC,UTA,Delta Center,/boxscores/202312080UTA.html
+321,2024,"Sat, Dec 9, 2023",IND,LAL,T-Mobile Arena,/boxscores/202312090LAL.html
+322,2024,"Mon, Dec 11, 2023",MIA,CHO,Spectrum Center,/boxscores/202312110CHO.html
+323,2024,"Mon, Dec 11, 2023",IND,DET,Little Caesars Arena,/boxscores/202312110DET.html
+324,2024,"Mon, Dec 11, 2023",CLE,ORL,Kia Center,/boxscores/202312110ORL.html
+325,2024,"Mon, Dec 11, 2023",WAS,PHI,Wells Fargo Center,/boxscores/202312110PHI.html
+326,2024,"Mon, Dec 11, 2023",DEN,ATL,State Farm Arena,/boxscores/202312110ATL.html
+327,2024,"Mon, Dec 11, 2023",TOR,NYK,Madison Square Garden (IV),/boxscores/202312110NYK.html
+328,2024,"Mon, Dec 11, 2023",SAS,HOU,Toyota Center,/boxscores/202312110HOU.html
+329,2024,"Mon, Dec 11, 2023",DAL,MEM,FedEx Forum,/boxscores/202312110MEM.html
+330,2024,"Mon, Dec 11, 2023",CHI,MIL,Fiserv Forum,/boxscores/202312110MIL.html
+331,2024,"Mon, Dec 11, 2023",MIN,NOP,Smoothie King Center,/boxscores/202312110NOP.html
+332,2024,"Mon, Dec 11, 2023",UTA,OKC,Paycom Center,/boxscores/202312110OKC.html
+333,2024,"Mon, Dec 11, 2023",BRK,SAC,Golden 1 Center,/boxscores/202312110SAC.html
+334,2024,"Mon, Dec 11, 2023",POR,LAC,Crypto.com Arena,/boxscores/202312110LAC.html
+335,2024,"Tue, Dec 12, 2023",CLE,BOS,TD Garden,/boxscores/202312120BOS.html
+336,2024,"Tue, Dec 12, 2023",LAL,DAL,American Airlines Center,/boxscores/202312120DAL.html
+337,2024,"Tue, Dec 12, 2023",DEN,CHI,United Center,/boxscores/202312120CHI.html
+338,2024,"Tue, Dec 12, 2023",GSW,PHO,Footprint Center,/boxscores/202312120PHO.html
+339,2024,"Tue, Dec 12, 2023",SAC,LAC,Crypto.com Arena,/boxscores/202312120LAC.html
+340,2024,"Wed, Dec 13, 2023",PHI,DET,Little Caesars Arena,/boxscores/202312130DET.html
+341,2024,"Wed, Dec 13, 2023",NOP,WAS,Capital One Arena,/boxscores/202312130WAS.html
+342,2024,"Wed, Dec 13, 2023",CHO,MIA,Kaseya Center,/boxscores/202312130MIA.html
+343,2024,"Wed, Dec 13, 2023",ATL,TOR,Scotiabank Arena,/boxscores/202312130TOR.html
+344,2024,"Wed, Dec 13, 2023",MEM,HOU,Toyota Center,/boxscores/202312130HOU.html
+345,2024,"Wed, Dec 13, 2023",IND,MIL,Fiserv Forum,/boxscores/202312130MIL.html
+346,2024,"Wed, Dec 13, 2023",LAL,SAS,Frost Bank Center,/boxscores/202312130SAS.html
+347,2024,"Wed, Dec 13, 2023",BRK,PHO,Footprint Center,/boxscores/202312130PHO.html
+348,2024,"Wed, Dec 13, 2023",NYK,UTA,Delta Center,/boxscores/202312130UTA.html
+349,2024,"Thu, Dec 14, 2023",CLE,BOS,TD Garden,/boxscores/202312140BOS.html
+350,2024,"Thu, Dec 14, 2023",CHI,MIA,Kaseya Center,/boxscores/202312140MIA.html
+351,2024,"Thu, Dec 14, 2023",MIN,DAL,American Airlines Center,/boxscores/202312140DAL.html
+352,2024,"Thu, Dec 14, 2023",BRK,DEN,Ball Arena,/boxscores/202312140DEN.html
+353,2024,"Thu, Dec 14, 2023",UTA,POR,Moda Center,/boxscores/202312140POR.html
+354,2024,"Thu, Dec 14, 2023",OKC,SAC,Golden 1 Center,/boxscores/202312140SAC.html
+355,2024,"Thu, Dec 14, 2023",GSW,LAC,Crypto.com Arena,/boxscores/202312140LAC.html
+356,2024,"Fri, Dec 15, 2023",NOP,CHO,Spectrum Center,/boxscores/202312150CHO.html
+357,2024,"Fri, Dec 15, 2023",DET,PHI,Wells Fargo Center,/boxscores/202312150PHI.html
+358,2024,"Fri, Dec 15, 2023",IND,WAS,Capital One Arena,/boxscores/202312150WAS.html
+359,2024,"Fri, Dec 15, 2023",ORL,BOS,TD Garden,/boxscores/202312150BOS.html
+360,2024,"Fri, Dec 15, 2023",LAL,SAS,Frost Bank Center,/boxscores/202312150SAS.html
+361,2024,"Fri, Dec 15, 2023",ATL,TOR,Scotiabank Arena,/boxscores/202312150TOR.html
+362,2024,"Fri, Dec 15, 2023",HOU,MEM,FedEx Forum,/boxscores/202312150MEM.html
+363,2024,"Fri, Dec 15, 2023",NYK,PHO,Footprint Center,/boxscores/202312150PHO.html
+364,2024,"Sat, Dec 16, 2023",DET,MIL,Fiserv Forum,/boxscores/202312160MIL.html
+365,2024,"Sat, Dec 16, 2023",PHI,CHO,Spectrum Center,/boxscores/202312160CHO.html
+366,2024,"Sat, Dec 16, 2023",ATL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202312160CLE.html
+367,2024,"Sat, Dec 16, 2023",CHI,MIA,Kaseya Center,/boxscores/202312160MIA.html
+368,2024,"Sat, Dec 16, 2023",IND,MIN,Target Center,/boxscores/202312160MIN.html
+369,2024,"Sat, Dec 16, 2023",BRK,GSW,Chase Center,/boxscores/202312160GSW.html
+370,2024,"Sat, Dec 16, 2023",OKC,DEN,Ball Arena,/boxscores/202312160DEN.html
+371,2024,"Sat, Dec 16, 2023",DAL,POR,Moda Center,/boxscores/202312160POR.html
+372,2024,"Sat, Dec 16, 2023",UTA,SAC,Golden 1 Center,/boxscores/202312160SAC.html
+373,2024,"Sat, Dec 16, 2023",NYK,LAC,Crypto.com Arena,/boxscores/202312160LAC.html
+374,2024,"Sun, Dec 17, 2023",ORL,BOS,TD Garden,/boxscores/202312170BOS.html
+375,2024,"Sun, Dec 17, 2023",NOP,SAS,Frost Bank Center,/boxscores/202312170SAS.html
+376,2024,"Sun, Dec 17, 2023",HOU,MIL,Fiserv Forum,/boxscores/202312170MIL.html
+377,2024,"Sun, Dec 17, 2023",WAS,PHO,Footprint Center,/boxscores/202312170PHO.html
+378,2024,"Sun, Dec 17, 2023",GSW,POR,Moda Center,/boxscores/202312170POR.html
+379,2024,"Mon, Dec 18, 2023",HOU,CLE,Rocket Mortgage Fieldhouse,/boxscores/202312180CLE.html
+380,2024,"Mon, Dec 18, 2023",LAC,IND,Gainbridge Fieldhouse,/boxscores/202312180IND.html
+381,2024,"Mon, Dec 18, 2023",CHI,PHI,Wells Fargo Center,/boxscores/202312180PHI.html
+382,2024,"Mon, Dec 18, 2023",DET,ATL,State Farm Arena,/boxscores/202312180ATL.html
+383,2024,"Mon, Dec 18, 2023",MIN,MIA,Kaseya Center,/boxscores/202312180MIA.html
+384,2024,"Mon, Dec 18, 2023",CHO,TOR,Scotiabank Arena,/boxscores/202312180TOR.html
+385,2024,"Mon, Dec 18, 2023",MEM,OKC,Paycom Center,/boxscores/202312180OKC.html
+386,2024,"Mon, Dec 18, 2023",DAL,DEN,Ball Arena,/boxscores/202312180DEN.html
+387,2024,"Mon, Dec 18, 2023",BRK,UTA,Delta Center,/boxscores/202312180UTA.html
+388,2024,"Mon, Dec 18, 2023",WAS,SAC,Golden 1 Center,/boxscores/202312180SAC.html
+389,2024,"Mon, Dec 18, 2023",NYK,LAL,Crypto.com Arena,/boxscores/202312180LAL.html
+390,2024,"Tue, Dec 19, 2023",MEM,NOP,Smoothie King Center,/boxscores/202312190NOP.html
+391,2024,"Tue, Dec 19, 2023",SAS,MIL,Fiserv Forum,/boxscores/202312190MIL.html
+392,2024,"Tue, Dec 19, 2023",BOS,GSW,Chase Center,/boxscores/202312190GSW.html
+393,2024,"Tue, Dec 19, 2023",PHO,POR,Moda Center,/boxscores/202312190POR.html
+394,2024,"Wed, Dec 20, 2023",UTA,CLE,Rocket Mortgage Fieldhouse,/boxscores/202312200CLE.html
+395,2024,"Wed, Dec 20, 2023",CHO,IND,Gainbridge Fieldhouse,/boxscores/202312200IND.html
+396,2024,"Wed, Dec 20, 2023",MIA,ORL,Kia Center,/boxscores/202312200ORL.html
+397,2024,"Wed, Dec 20, 2023",MIN,PHI,Wells Fargo Center,/boxscores/202312200PHI.html
+398,2024,"Wed, Dec 20, 2023",NYK,BRK,Barclays Center,/boxscores/202312200BRK.html
+399,2024,"Wed, Dec 20, 2023",DEN,TOR,Scotiabank Arena,/boxscores/202312200TOR.html
+400,2024,"Wed, Dec 20, 2023",LAL,CHI,United Center,/boxscores/202312200CHI.html
+401,2024,"Wed, Dec 20, 2023",ATL,HOU,Toyota Center,/boxscores/202312200HOU.html
+402,2024,"Wed, Dec 20, 2023",LAC,DAL,American Airlines Center,/boxscores/202312200DAL.html
+403,2024,"Wed, Dec 20, 2023",BOS,SAC,Golden 1 Center,/boxscores/202312200SAC.html
+404,2024,"Thu, Dec 21, 2023",UTA,DET,Little Caesars Arena,/boxscores/202312210DET.html
+405,2024,"Thu, Dec 21, 2023",NOP,CLE,Rocket Mortgage Fieldhouse,/boxscores/202312210CLE.html
+406,2024,"Thu, Dec 21, 2023",SAS,CHI,United Center,/boxscores/202312210CHI.html
+407,2024,"Thu, Dec 21, 2023",IND,MEM,FedEx Forum,/boxscores/202312210MEM.html
+408,2024,"Thu, Dec 21, 2023",ORL,MIL,Fiserv Forum,/boxscores/202312210MIL.html
+409,2024,"Thu, Dec 21, 2023",LAC,OKC,Paycom Center,/boxscores/202312210OKC.html
+410,2024,"Thu, Dec 21, 2023",LAL,MIN,Target Center,/boxscores/202312210MIN.html
+411,2024,"Thu, Dec 21, 2023",WAS,POR,Moda Center,/boxscores/202312210POR.html
+412,2024,"Fri, Dec 22, 2023",TOR,PHI,Wells Fargo Center,/boxscores/202312220PHI.html
+413,2024,"Fri, Dec 22, 2023",DEN,BRK,Barclays Center,/boxscores/202312220BRK.html
+414,2024,"Fri, Dec 22, 2023",DAL,HOU,Toyota Center,/boxscores/202312220HOU.html
+415,2024,"Fri, Dec 22, 2023",ATL,MIA,Kaseya Center,/boxscores/202312220MIA.html
+416,2024,"Fri, Dec 22, 2023",WAS,GSW,Chase Center,/boxscores/202312220GSW.html
+417,2024,"Fri, Dec 22, 2023",PHO,SAC,Golden 1 Center,/boxscores/202312220SAC.html
+418,2024,"Sat, Dec 23, 2023",MIL,NYK,Madison Square Garden (IV),/boxscores/202312230NYK.html
+419,2024,"Sat, Dec 23, 2023",BOS,LAC,Crypto.com Arena,/boxscores/202312230LAC.html
+420,2024,"Sat, Dec 23, 2023",DEN,CHO,Spectrum Center,/boxscores/202312230CHO.html
+421,2024,"Sat, Dec 23, 2023",ORL,IND,Gainbridge Fieldhouse,/boxscores/202312230IND.html
+422,2024,"Sat, Dec 23, 2023",HOU,NOP,Smoothie King Center,/boxscores/202312230NOP.html
+423,2024,"Sat, Dec 23, 2023",MEM,ATL,State Farm Arena,/boxscores/202312230ATL.html
+424,2024,"Sat, Dec 23, 2023",DET,BRK,Barclays Center,/boxscores/202312230BRK.html
+425,2024,"Sat, Dec 23, 2023",UTA,TOR,Scotiabank Arena,/boxscores/202312230TOR.html
+426,2024,"Sat, Dec 23, 2023",CLE,CHI,United Center,/boxscores/202312230CHI.html
+427,2024,"Sat, Dec 23, 2023",LAL,OKC,Paycom Center,/boxscores/202312230OKC.html
+428,2024,"Sat, Dec 23, 2023",SAS,DAL,American Airlines Center,/boxscores/202312230DAL.html
+429,2024,"Sat, Dec 23, 2023",POR,GSW,Chase Center,/boxscores/202312230GSW.html
+430,2024,"Sat, Dec 23, 2023",MIN,SAC,Golden 1 Center,/boxscores/202312230SAC.html
+431,2024,"Mon, Dec 25, 2023",MIL,NYK,Madison Square Garden (IV),/boxscores/202312250NYK.html
+432,2024,"Mon, Dec 25, 2023",GSW,DEN,Ball Arena,/boxscores/202312250DEN.html
+433,2024,"Mon, Dec 25, 2023",BOS,LAL,Crypto.com Arena,/boxscores/202312250LAL.html
+434,2024,"Mon, Dec 25, 2023",PHI,MIA,Kaseya Center,/boxscores/202312250MIA.html
+435,2024,"Mon, Dec 25, 2023",DAL,PHO,Footprint Center,/boxscores/202312250PHO.html
+436,2024,"Tue, Dec 26, 2023",BRK,DET,Little Caesars Arena,/boxscores/202312260DET.html
+437,2024,"Tue, Dec 26, 2023",ORL,WAS,Capital One Arena,/boxscores/202312260WAS.html
+438,2024,"Tue, Dec 26, 2023",ATL,CHI,United Center,/boxscores/202312260CHI.html
+439,2024,"Tue, Dec 26, 2023",IND,HOU,Toyota Center,/boxscores/202312260HOU.html
+440,2024,"Tue, Dec 26, 2023",MEM,NOP,Smoothie King Center,/boxscores/202312260NOP.html
+441,2024,"Tue, Dec 26, 2023",MIN,OKC,Paycom Center,/boxscores/202312260OKC.html
+442,2024,"Tue, Dec 26, 2023",UTA,SAS,Frost Bank Center,/boxscores/202312260SAS.html
+443,2024,"Tue, Dec 26, 2023",SAC,POR,Moda Center,/boxscores/202312260POR.html
+444,2024,"Tue, Dec 26, 2023",CHO,LAC,Crypto.com Arena,/boxscores/202312260LAC.html
+445,2024,"Wed, Dec 27, 2023",PHI,ORL,Kia Center,/boxscores/202312270ORL.html
+446,2024,"Wed, Dec 27, 2023",TOR,WAS,Capital One Arena,/boxscores/202312270WAS.html
+447,2024,"Wed, Dec 27, 2023",MIL,BRK,Barclays Center,/boxscores/202312270BRK.html
+448,2024,"Wed, Dec 27, 2023",PHO,HOU,Toyota Center,/boxscores/202312270HOU.html
+449,2024,"Wed, Dec 27, 2023",NYK,OKC,Paycom Center,/boxscores/202312270OKC.html
+450,2024,"Wed, Dec 27, 2023",CLE,DAL,American Airlines Center,/boxscores/202312270DAL.html
+451,2024,"Thu, Dec 28, 2023",DET,BOS,TD Garden,/boxscores/202312280BOS.html
+452,2024,"Thu, Dec 28, 2023",IND,CHI,United Center,/boxscores/202312280CHI.html
+453,2024,"Thu, Dec 28, 2023",DAL,MIN,Target Center,/boxscores/202312280MIN.html
+454,2024,"Thu, Dec 28, 2023",UTA,NOP,Smoothie King Center,/boxscores/202312280NOP.html
+455,2024,"Thu, Dec 28, 2023",MEM,DEN,Ball Arena,/boxscores/202312280DEN.html
+456,2024,"Thu, Dec 28, 2023",MIA,GSW,Chase Center,/boxscores/202312280GSW.html
+457,2024,"Thu, Dec 28, 2023",SAS,POR,Moda Center,/boxscores/202312280POR.html
+458,2024,"Thu, Dec 28, 2023",CHO,LAL,Crypto.com Arena,/boxscores/202312280LAL.html
+459,2024,"Fri, Dec 29, 2023",NYK,ORL,Kia Center,/boxscores/202312290ORL.html
+460,2024,"Fri, Dec 29, 2023",BRK,WAS,Capital One Arena,/boxscores/202312290WAS.html
+461,2024,"Fri, Dec 29, 2023",SAC,ATL,State Farm Arena,/boxscores/202312290ATL.html
+462,2024,"Fri, Dec 29, 2023",TOR,BOS,TD Garden,/boxscores/202312290BOS.html
+463,2024,"Fri, Dec 29, 2023",MIL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202312290CLE.html
+464,2024,"Fri, Dec 29, 2023",PHI,HOU,Toyota Center,/boxscores/202312290HOU.html
+465,2024,"Fri, Dec 29, 2023",OKC,DEN,Ball Arena,/boxscores/202312290DEN.html
+466,2024,"Fri, Dec 29, 2023",CHO,PHO,Footprint Center,/boxscores/202312290PHO.html
+467,2024,"Fri, Dec 29, 2023",SAS,POR,Moda Center,/boxscores/202312290POR.html
+468,2024,"Fri, Dec 29, 2023",MEM,LAC,Crypto.com Arena,/boxscores/202312290LAC.html
+469,2024,"Sat, Dec 30, 2023",MIA,UTA,Delta Center,/boxscores/202312300UTA.html
+470,2024,"Sat, Dec 30, 2023",TOR,DET,Little Caesars Arena,/boxscores/202312300DET.html
+471,2024,"Sat, Dec 30, 2023",NYK,IND,Gainbridge Fieldhouse,/boxscores/202312300IND.html
+472,2024,"Sat, Dec 30, 2023",PHI,CHI,United Center,/boxscores/202312300CHI.html
+473,2024,"Sat, Dec 30, 2023",LAL,MIN,Target Center,/boxscores/202312300MIN.html
+474,2024,"Sat, Dec 30, 2023",DAL,GSW,Chase Center,/boxscores/202312300GSW.html
+475,2024,"Sun, Dec 31, 2023",ATL,WAS,Capital One Arena,/boxscores/202312310WAS.html
+476,2024,"Sun, Dec 31, 2023",LAL,NOP,Smoothie King Center,/boxscores/202312310NOP.html
+477,2024,"Sun, Dec 31, 2023",BRK,OKC,Paycom Center,/boxscores/202312310OKC.html
+478,2024,"Sun, Dec 31, 2023",BOS,SAS,Frost Bank Center,/boxscores/202312310SAS.html
+479,2024,"Sun, Dec 31, 2023",SAC,MEM,FedEx Forum,/boxscores/202312310MEM.html
+480,2024,"Sun, Dec 31, 2023",ORL,PHO,Footprint Center,/boxscores/202312310PHO.html
+481,2024,"Mon, Jan 1, 2024",MIN,NYK,Madison Square Garden (IV),/boxscores/202401010NYK.html
+482,2024,"Mon, Jan 1, 2024",CLE,TOR,Scotiabank Arena,/boxscores/202401010TOR.html
+483,2024,"Mon, Jan 1, 2024",DET,HOU,Toyota Center,/boxscores/202401010HOU.html
+484,2024,"Mon, Jan 1, 2024",IND,MIL,Fiserv Forum,/boxscores/202401010MIL.html
+485,2024,"Mon, Jan 1, 2024",CHO,DEN,Ball Arena,/boxscores/202401010DEN.html
+486,2024,"Mon, Jan 1, 2024",POR,PHO,Footprint Center,/boxscores/202401010PHO.html
+487,2024,"Mon, Jan 1, 2024",DAL,UTA,Delta Center,/boxscores/202401010UTA.html
+488,2024,"Mon, Jan 1, 2024",MIA,LAC,Crypto.com Arena,/boxscores/202401010LAC.html
+489,2024,"Tue, Jan 2, 2024",CHI,PHI,Wells Fargo Center,/boxscores/202401020PHI.html
+490,2024,"Tue, Jan 2, 2024",SAS,MEM,FedEx Forum,/boxscores/202401020MEM.html
+491,2024,"Tue, Jan 2, 2024",BRK,NOP,Smoothie King Center,/boxscores/202401020NOP.html
+492,2024,"Tue, Jan 2, 2024",BOS,OKC,Paycom Center,/boxscores/202401020OKC.html
+493,2024,"Tue, Jan 2, 2024",ORL,GSW,Chase Center,/boxscores/202401020GSW.html
+494,2024,"Tue, Jan 2, 2024",CHO,SAC,Golden 1 Center,/boxscores/202401020SAC.html
+495,2024,"Wed, Jan 3, 2024",WAS,CLE,Rocket Mortgage Fieldhouse,/boxscores/202401030CLE.html
+496,2024,"Wed, Jan 3, 2024",MIL,IND,Gainbridge Fieldhouse,/boxscores/202401030IND.html
+497,2024,"Wed, Jan 3, 2024",OKC,ATL,State Farm Arena,/boxscores/202401030ATL.html
+498,2024,"Wed, Jan 3, 2024",BRK,HOU,Toyota Center,/boxscores/202401030HOU.html
+499,2024,"Wed, Jan 3, 2024",TOR,MEM,FedEx Forum,/boxscores/202401030MEM.html
+500,2024,"Wed, Jan 3, 2024",NOP,MIN,Target Center,/boxscores/202401030MIN.html
+501,2024,"Wed, Jan 3, 2024",POR,DAL,American Airlines Center,/boxscores/202401030DAL.html
+502,2024,"Wed, Jan 3, 2024",CHI,NYK,Madison Square Garden (IV),/boxscores/202401030NYK.html
+503,2024,"Wed, Jan 3, 2024",LAC,PHO,Footprint Center,/boxscores/202401030PHO.html
+504,2024,"Wed, Jan 3, 2024",DET,UTA,Delta Center,/boxscores/202401030UTA.html
+505,2024,"Wed, Jan 3, 2024",MIA,LAL,Crypto.com Arena,/boxscores/202401030LAL.html
+506,2024,"Wed, Jan 3, 2024",ORL,SAC,Golden 1 Center,/boxscores/202401030SAC.html
+507,2024,"Thu, Jan 4, 2024",MIL,SAS,Frost Bank Center,/boxscores/202401040SAS.html
+508,2024,"Thu, Jan 4, 2024",DEN,GSW,Chase Center,/boxscores/202401040GSW.html
+509,2024,"Fri, Jan 5, 2024",UTA,BOS,TD Garden,/boxscores/202401050BOS.html
+510,2024,"Fri, Jan 5, 2024",ATL,IND,Gainbridge Fieldhouse,/boxscores/202401050IND.html
+511,2024,"Fri, Jan 5, 2024",OKC,BRK,Barclays Center,/boxscores/202401050BRK.html
+512,2024,"Fri, Jan 5, 2024",WAS,CLE,Rocket Mortgage Fieldhouse,/boxscores/202401050CLE.html
+513,2024,"Fri, Jan 5, 2024",NYK,PHI,Wells Fargo Center,/boxscores/202401050PHI.html
+514,2024,"Fri, Jan 5, 2024",CHO,CHI,United Center,/boxscores/202401050CHI.html
+515,2024,"Fri, Jan 5, 2024",MIN,HOU,Toyota Center,/boxscores/202401050HOU.html
+516,2024,"Fri, Jan 5, 2024",LAC,NOP,Smoothie King Center,/boxscores/202401050NOP.html
+517,2024,"Fri, Jan 5, 2024",POR,DAL,American Airlines Center,/boxscores/202401050DAL.html
+518,2024,"Fri, Jan 5, 2024",ORL,DEN,Ball Arena,/boxscores/202401050DEN.html
+519,2024,"Fri, Jan 5, 2024",MIA,PHO,Footprint Center,/boxscores/202401050PHO.html
+520,2024,"Fri, Jan 5, 2024",DET,GSW,Chase Center,/boxscores/202401050GSW.html
+521,2024,"Fri, Jan 5, 2024",MEM,LAL,Crypto.com Arena,/boxscores/202401050LAL.html
+522,2024,"Fri, Jan 5, 2024",TOR,SAC,Golden 1 Center,/boxscores/202401050SAC.html
+523,2024,"Sat, Jan 6, 2024",BOS,IND,Gainbridge Fieldhouse,/boxscores/202401060IND.html
+524,2024,"Sat, Jan 6, 2024",NYK,WAS,Capital One Arena,/boxscores/202401060WAS.html
+525,2024,"Sat, Jan 6, 2024",UTA,PHI,Wells Fargo Center,/boxscores/202401060PHI.html
+526,2024,"Sat, Jan 6, 2024",MIL,HOU,Toyota Center,/boxscores/202401060HOU.html
+527,2024,"Sun, Jan 7, 2024",SAS,CLE,Rocket Mortgage Fieldhouse,/boxscores/202401070CLE.html
+528,2024,"Sun, Jan 7, 2024",POR,BRK,Barclays Center,/boxscores/202401070BRK.html
+529,2024,"Sun, Jan 7, 2024",ATL,ORL,Kia Center,/boxscores/202401070ORL.html
+530,2024,"Sun, Jan 7, 2024",NOP,SAC,Golden 1 Center,/boxscores/202401070SAC.html
+531,2024,"Sun, Jan 7, 2024",MIN,DAL,American Airlines Center,/boxscores/202401070DAL.html
+532,2024,"Sun, Jan 7, 2024",DET,DEN,Ball Arena,/boxscores/202401070DEN.html
+533,2024,"Sun, Jan 7, 2024",MEM,PHO,Footprint Center,/boxscores/202401070PHO.html
+534,2024,"Sun, Jan 7, 2024",TOR,GSW,Chase Center,/boxscores/202401070GSW.html
+535,2024,"Sun, Jan 7, 2024",LAC,LAL,Crypto.com Arena,/boxscores/202401070LAL.html
+536,2024,"Mon, Jan 8, 2024",CHI,CHO,Spectrum Center,/boxscores/202401080CHO.html
+537,2024,"Mon, Jan 8, 2024",BOS,IND,Gainbridge Fieldhouse,/boxscores/202401080IND.html
+538,2024,"Mon, Jan 8, 2024",OKC,WAS,Capital One Arena,/boxscores/202401080WAS.html
+539,2024,"Mon, Jan 8, 2024",HOU,MIA,Kaseya Center,/boxscores/202401080MIA.html
+540,2024,"Mon, Jan 8, 2024",UTA,MIL,Fiserv Forum,/boxscores/202401080MIL.html
+541,2024,"Mon, Jan 8, 2024",PHO,LAC,Crypto.com Arena,/boxscores/202401080LAC.html
+542,2024,"Tue, Jan 9, 2024",SAC,DET,Little Caesars Arena,/boxscores/202401090DET.html
+543,2024,"Tue, Jan 9, 2024",MIN,ORL,Kia Center,/boxscores/202401090ORL.html
+544,2024,"Tue, Jan 9, 2024",POR,NYK,Madison Square Garden (IV),/boxscores/202401090NYK.html
+545,2024,"Tue, Jan 9, 2024",MEM,DAL,American Airlines Center,/boxscores/202401090DAL.html
+546,2024,"Tue, Jan 9, 2024",TOR,LAL,Crypto.com Arena,/boxscores/202401090LAL.html
+547,2024,"Wed, Jan 10, 2024",MIN,BOS,TD Garden,/boxscores/202401100BOS.html
+548,2024,"Wed, Jan 10, 2024",SAC,CHO,Spectrum Center,/boxscores/202401100CHO.html
+549,2024,"Wed, Jan 10, 2024",SAS,DET,Little Caesars Arena,/boxscores/202401100DET.html
+550,2024,"Wed, Jan 10, 2024",WAS,IND,Gainbridge Fieldhouse,/boxscores/202401100IND.html
+551,2024,"Wed, Jan 10, 2024",PHI,ATL,State Farm Arena,/boxscores/202401100ATL.html
+552,2024,"Wed, Jan 10, 2024",OKC,MIA,Kaseya Center,/boxscores/202401100MIA.html
+553,2024,"Wed, Jan 10, 2024",HOU,CHI,United Center,/boxscores/202401100CHI.html
+554,2024,"Wed, Jan 10, 2024",NOP,GSW,Chase Center,/boxscores/202401100GSW.html
+555,2024,"Wed, Jan 10, 2024",DEN,UTA,Delta Center,/boxscores/202401100UTA.html
+556,2024,"Wed, Jan 10, 2024",TOR,LAC,Crypto.com Arena,/boxscores/202401100LAC.html
+557,2024,"Thu, Jan 11, 2024",BRK,CLE,AccorHotels Arena,/boxscores/202401110CLE.html
+558,2024,"Thu, Jan 11, 2024",BOS,MIL,Fiserv Forum,/boxscores/202401110MIL.html
+559,2024,"Thu, Jan 11, 2024",POR,OKC,Paycom Center,/boxscores/202401110OKC.html
+560,2024,"Thu, Jan 11, 2024",NYK,DAL,American Airlines Center,/boxscores/202401110DAL.html
+561,2024,"Thu, Jan 11, 2024",PHO,LAL,Crypto.com Arena,/boxscores/202401110LAL.html
+562,2024,"Fri, Jan 12, 2024",IND,ATL,State Farm Arena,/boxscores/202401120ATL.html
+563,2024,"Fri, Jan 12, 2024",HOU,DET,Little Caesars Arena,/boxscores/202401120DET.html
+564,2024,"Fri, Jan 12, 2024",SAC,PHI,Wells Fargo Center,/boxscores/202401120PHI.html
+565,2024,"Fri, Jan 12, 2024",GSW,CHI,United Center,/boxscores/202401120CHI.html
+566,2024,"Fri, Jan 12, 2024",LAC,MEM,FedEx Forum,/boxscores/202401120MEM.html
+567,2024,"Fri, Jan 12, 2024",ORL,MIA,Kaseya Center,/boxscores/202401120MIA.html
+568,2024,"Fri, Jan 12, 2024",POR,MIN,Target Center,/boxscores/202401120MIN.html
+569,2024,"Fri, Jan 12, 2024",CHO,SAS,Frost Bank Center,/boxscores/202401120SAS.html
+570,2024,"Fri, Jan 12, 2024",TOR,UTA,Delta Center,/boxscores/202401120UTA.html
+571,2024,"Fri, Jan 12, 2024",NOP,DEN,Ball Arena,/boxscores/202401120DEN.html
+572,2024,"Sat, Jan 13, 2024",HOU,BOS,TD Garden,/boxscores/202401130BOS.html
+573,2024,"Sat, Jan 13, 2024",WAS,ATL,State Farm Arena,/boxscores/202401130ATL.html
+574,2024,"Sat, Jan 13, 2024",NYK,MEM,FedEx Forum,/boxscores/202401130MEM.html
+575,2024,"Sat, Jan 13, 2024",GSW,MIL,Fiserv Forum,/boxscores/202401130MIL.html
+576,2024,"Sat, Jan 13, 2024",ORL,OKC,Paycom Center,/boxscores/202401130OKC.html
+577,2024,"Sat, Jan 13, 2024",NOP,DAL,American Airlines Center,/boxscores/202401130DAL.html
+578,2024,"Sat, Jan 13, 2024",CHI,SAS,Frost Bank Center,/boxscores/202401130SAS.html
+579,2024,"Sat, Jan 13, 2024",LAL,UTA,Delta Center,/boxscores/202401130UTA.html
+580,2024,"Sun, Jan 14, 2024",IND,DEN,Ball Arena,/boxscores/202401140DEN.html
+581,2024,"Sun, Jan 14, 2024",CHO,MIA,Kaseya Center,/boxscores/202401140MIA.html
+582,2024,"Sun, Jan 14, 2024",SAC,MIL,Fiserv Forum,/boxscores/202401140MIL.html
+583,2024,"Sun, Jan 14, 2024",LAC,MIN,Target Center,/boxscores/202401140MIN.html
+584,2024,"Sun, Jan 14, 2024",PHO,POR,Moda Center,/boxscores/202401140POR.html
+585,2024,"Mon, Jan 15, 2024",HOU,PHI,Wells Fargo Center,/boxscores/202401150PHI.html
+586,2024,"Mon, Jan 15, 2024",NOP,DAL,American Airlines Center,/boxscores/202401150DAL.html
+587,2024,"Mon, Jan 15, 2024",ORL,NYK,Madison Square Garden (IV),/boxscores/202401150NYK.html
+588,2024,"Mon, Jan 15, 2024",DET,WAS,Capital One Arena,/boxscores/202401150WAS.html
+589,2024,"Mon, Jan 15, 2024",SAS,ATL,State Farm Arena,/boxscores/202401150ATL.html
+590,2024,"Mon, Jan 15, 2024",GSW,MEM,FedEx Forum,/boxscores/202401150MEM.html
+591,2024,"Mon, Jan 15, 2024",CHI,CLE,Rocket Mortgage Fieldhouse,/boxscores/202401150CLE.html
+592,2024,"Mon, Jan 15, 2024",MIA,BRK,Barclays Center,/boxscores/202401150BRK.html
+593,2024,"Mon, Jan 15, 2024",BOS,TOR,Scotiabank Arena,/boxscores/202401150TOR.html
+594,2024,"Mon, Jan 15, 2024",IND,UTA,Delta Center,/boxscores/202401150UTA.html
+595,2024,"Mon, Jan 15, 2024",OKC,LAL,Crypto.com Arena,/boxscores/202401150LAL.html
+596,2024,"Tue, Jan 16, 2024",DEN,PHI,Wells Fargo Center,/boxscores/202401160PHI.html
+597,2024,"Tue, Jan 16, 2024",SAC,PHO,Footprint Center,/boxscores/202401160PHO.html
+598,2024,"Tue, Jan 16, 2024",OKC,LAC,Crypto.com Arena,/boxscores/202401160LAC.html
+599,2024,"Wed, Jan 17, 2024",MIN,DET,Little Caesars Arena,/boxscores/202401170DET.html
+600,2024,"Wed, Jan 17, 2024",ORL,ATL,State Farm Arena,/boxscores/202401170ATL.html
+601,2024,"Wed, Jan 17, 2024",SAS,BOS,TD Garden,/boxscores/202401170BOS.html
+602,2024,"Wed, Jan 17, 2024",MIL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202401170CLE.html
+603,2024,"Wed, Jan 17, 2024",HOU,NYK,Madison Square Garden (IV),/boxscores/202401170NYK.html
+604,2024,"Wed, Jan 17, 2024",MIA,TOR,Scotiabank Arena,/boxscores/202401170TOR.html
+605,2024,"Wed, Jan 17, 2024",CHO,NOP,Smoothie King Center,/boxscores/202401170NOP.html
+606,2024,"Wed, Jan 17, 2024",DAL,LAL,Crypto.com Arena,/boxscores/202401170LAL.html
+607,2024,"Wed, Jan 17, 2024",BRK,POR,Moda Center,/boxscores/202401170POR.html
+608,2024,"Thu, Jan 18, 2024",WAS,NYK,Madison Square Garden (IV),/boxscores/202401180NYK.html
+609,2024,"Thu, Jan 18, 2024",CHI,TOR,Scotiabank Arena,/boxscores/202401180TOR.html
+610,2024,"Thu, Jan 18, 2024",OKC,UTA,Delta Center,/boxscores/202401180UTA.html
+611,2024,"Thu, Jan 18, 2024",MEM,MIN,Target Center,/boxscores/202401180MIN.html
+612,2024,"Thu, Jan 18, 2024",IND,SAC,Golden 1 Center,/boxscores/202401180SAC.html
+613,2024,"Fri, Jan 19, 2024",SAS,CHO,Spectrum Center,/boxscores/202401190CHO.html
+614,2024,"Fri, Jan 19, 2024",PHI,ORL,Kia Center,/boxscores/202401190ORL.html
+615,2024,"Fri, Jan 19, 2024",DEN,BOS,TD Garden,/boxscores/202401190BOS.html
+616,2024,"Fri, Jan 19, 2024",ATL,MIA,Kaseya Center,/boxscores/202401190MIA.html
+617,2024,"Fri, Jan 19, 2024",PHO,NOP,Smoothie King Center,/boxscores/202401190NOP.html
+618,2024,"Fri, Jan 19, 2024",IND,POR,Moda Center,/boxscores/202401190POR.html
+619,2024,"Fri, Jan 19, 2024",BRK,LAL,Crypto.com Arena,/boxscores/202401190LAL.html
+620,2024,"Sat, Jan 20, 2024",MIL,DET,Little Caesars Arena,/boxscores/202401200DET.html
+621,2024,"Sat, Jan 20, 2024",PHI,CHO,Spectrum Center,/boxscores/202401200CHO.html
+622,2024,"Sat, Jan 20, 2024",SAS,WAS,Capital One Arena,/boxscores/202401200WAS.html
+623,2024,"Sat, Jan 20, 2024",CLE,ATL,State Farm Arena,/boxscores/202401200ATL.html
+624,2024,"Sat, Jan 20, 2024",TOR,NYK,Madison Square Garden (IV),/boxscores/202401200NYK.html
+625,2024,"Sat, Jan 20, 2024",MEM,CHI,United Center,/boxscores/202401200CHI.html
+626,2024,"Sat, Jan 20, 2024",UTA,HOU,Toyota Center,/boxscores/202401200HOU.html
+627,2024,"Sat, Jan 20, 2024",OKC,MIN,Target Center,/boxscores/202401200MIN.html
+628,2024,"Sun, Jan 21, 2024",BRK,LAC,Crypto.com Arena,/boxscores/202401210LAC.html
+629,2024,"Sun, Jan 21, 2024",MIA,ORL,Kia Center,/boxscores/202401210ORL.html
+630,2024,"Sun, Jan 21, 2024",DEN,WAS,Capital One Arena,/boxscores/202401210WAS.html
+631,2024,"Sun, Jan 21, 2024",BOS,HOU,Toyota Center,/boxscores/202401210HOU.html
+632,2024,"Sun, Jan 21, 2024",IND,PHO,Footprint Center,/boxscores/202401210PHO.html
+633,2024,"Sun, Jan 21, 2024",POR,LAL,Crypto.com Arena,/boxscores/202401210LAL.html
+634,2024,"Mon, Jan 22, 2024",MIL,DET,Little Caesars Arena,/boxscores/202401220DET.html
+635,2024,"Mon, Jan 22, 2024",CLE,ORL,Kia Center,/boxscores/202401220ORL.html
+636,2024,"Mon, Jan 22, 2024",SAS,PHI,Wells Fargo Center,/boxscores/202401220PHI.html
+637,2024,"Mon, Jan 22, 2024",MEM,TOR,Scotiabank Arena,/boxscores/202401220TOR.html
+638,2024,"Mon, Jan 22, 2024",CHO,MIN,Target Center,/boxscores/202401220MIN.html
+639,2024,"Mon, Jan 22, 2024",BOS,DAL,American Airlines Center,/boxscores/202401220DAL.html
+640,2024,"Mon, Jan 22, 2024",CHI,PHO,Footprint Center,/boxscores/202401220PHO.html
+641,2024,"Mon, Jan 22, 2024",ATL,SAC,Golden 1 Center,/boxscores/202401220SAC.html
+642,2024,"Tue, Jan 23, 2024",DEN,IND,Gainbridge Fieldhouse,/boxscores/202401230IND.html
+643,2024,"Tue, Jan 23, 2024",NYK,BRK,Barclays Center,/boxscores/202401230BRK.html
+644,2024,"Tue, Jan 23, 2024",UTA,NOP,Smoothie King Center,/boxscores/202401230NOP.html
+645,2024,"Tue, Jan 23, 2024",POR,OKC,Paycom Center,/boxscores/202401230OKC.html
+646,2024,"Tue, Jan 23, 2024",LAL,LAC,Crypto.com Arena,/boxscores/202401230LAC.html
+647,2024,"Wed, Jan 24, 2024",CHO,DET,Little Caesars Arena,/boxscores/202401240DET.html
+648,2024,"Wed, Jan 24, 2024",MIN,WAS,Capital One Arena,/boxscores/202401240WAS.html
+649,2024,"Wed, Jan 24, 2024",MEM,MIA,Kaseya Center,/boxscores/202401240MIA.html
+650,2024,"Wed, Jan 24, 2024",POR,HOU,Toyota Center,/boxscores/202401240HOU.html
+651,2024,"Wed, Jan 24, 2024",CLE,MIL,Fiserv Forum,/boxscores/202401240MIL.html
+652,2024,"Wed, Jan 24, 2024",PHO,DAL,American Airlines Center,/boxscores/202401240DAL.html
+653,2024,"Wed, Jan 24, 2024",OKC,SAS,Frost Bank Center,/boxscores/202401240SAS.html
+654,2024,"Wed, Jan 24, 2024",ATL,GSW,Chase Center,/boxscores/202401240GSW.html
+655,2024,"Thu, Jan 25, 2024",PHI,IND,Gainbridge Fieldhouse,/boxscores/202401250IND.html
+656,2024,"Thu, Jan 25, 2024",UTA,WAS,Capital One Arena,/boxscores/202401250WAS.html
+657,2024,"Thu, Jan 25, 2024",MIN,BRK,Barclays Center,/boxscores/202401250BRK.html
+658,2024,"Thu, Jan 25, 2024",BOS,MIA,Kaseya Center,/boxscores/202401250MIA.html
+659,2024,"Thu, Jan 25, 2024",DEN,NYK,Madison Square Garden (IV),/boxscores/202401250NYK.html
+660,2024,"Thu, Jan 25, 2024",SAC,GSW,Chase Center,/boxscores/202401250GSW.html
+661,2024,"Thu, Jan 25, 2024",CHI,LAL,Crypto.com Arena,/boxscores/202401250LAL.html
+662,2024,"Fri, Jan 26, 2024",DAL,ATL,State Farm Arena,/boxscores/202401260ATL.html
+663,2024,"Fri, Jan 26, 2024",HOU,CHO,Spectrum Center,/boxscores/202401260CHO.html
+664,2024,"Fri, Jan 26, 2024",PHO,IND,Gainbridge Fieldhouse,/boxscores/202401260IND.html
+665,2024,"Fri, Jan 26, 2024",LAC,TOR,Scotiabank Arena,/boxscores/202401260TOR.html
+666,2024,"Fri, Jan 26, 2024",ORL,MEM,FedEx Forum,/boxscores/202401260MEM.html
+667,2024,"Fri, Jan 26, 2024",CLE,MIL,Fiserv Forum,/boxscores/202401260MIL.html
+668,2024,"Fri, Jan 26, 2024",OKC,NOP,Smoothie King Center,/boxscores/202401260NOP.html
+669,2024,"Fri, Jan 26, 2024",POR,SAS,Frost Bank Center,/boxscores/202401260SAS.html
+670,2024,"Sat, Jan 27, 2024",WAS,DET,Little Caesars Arena,/boxscores/202401270DET.html
+671,2024,"Sat, Jan 27, 2024",MIA,NYK,Madison Square Garden (IV),/boxscores/202401270NYK.html
+672,2024,"Sat, Jan 27, 2024",PHI,DEN,Ball Arena,/boxscores/202401270DEN.html
+673,2024,"Sat, Jan 27, 2024",HOU,BRK,Barclays Center,/boxscores/202401270BRK.html
+674,2024,"Sat, Jan 27, 2024",LAC,BOS,TD Garden,/boxscores/202401270BOS.html
+675,2024,"Sat, Jan 27, 2024",UTA,CHO,Spectrum Center,/boxscores/202401270CHO.html
+676,2024,"Sat, Jan 27, 2024",NOP,MIL,Fiserv Forum,/boxscores/202401270MIL.html
+677,2024,"Sat, Jan 27, 2024",LAL,GSW,Chase Center,/boxscores/202401270GSW.html
+678,2024,"Sat, Jan 27, 2024",MIN,SAS,Frost Bank Center,/boxscores/202401270SAS.html
+679,2024,"Sat, Jan 27, 2024",SAC,DAL,American Airlines Center,/boxscores/202401270DAL.html
+680,2024,"Sun, Jan 28, 2024",OKC,DET,Little Caesars Arena,/boxscores/202401280DET.html
+681,2024,"Sun, Jan 28, 2024",MEM,IND,Gainbridge Fieldhouse,/boxscores/202401280IND.html
+682,2024,"Sun, Jan 28, 2024",TOR,ATL,State Farm Arena,/boxscores/202401280ATL.html
+683,2024,"Sun, Jan 28, 2024",PHO,ORL,Kia Center,/boxscores/202401280ORL.html
+684,2024,"Sun, Jan 28, 2024",CHI,POR,Moda Center,/boxscores/202401280POR.html
+685,2024,"Mon, Jan 29, 2024",NYK,CHO,Spectrum Center,/boxscores/202401290CHO.html
+686,2024,"Mon, Jan 29, 2024",LAC,CLE,Rocket Mortgage Fieldhouse,/boxscores/202401290CLE.html
+687,2024,"Mon, Jan 29, 2024",NOP,BOS,TD Garden,/boxscores/202401290BOS.html
+688,2024,"Mon, Jan 29, 2024",UTA,BRK,Barclays Center,/boxscores/202401290BRK.html
+689,2024,"Mon, Jan 29, 2024",PHO,MIA,Kaseya Center,/boxscores/202401290MIA.html
+690,2024,"Mon, Jan 29, 2024",LAL,HOU,Toyota Center,/boxscores/202401290HOU.html
+691,2024,"Mon, Jan 29, 2024",SAC,MEM,FedEx Forum,/boxscores/202401290MEM.html
+692,2024,"Mon, Jan 29, 2024",MIN,OKC,Paycom Center,/boxscores/202401290OKC.html
+693,2024,"Mon, Jan 29, 2024",WAS,SAS,Frost Bank Center,/boxscores/202401290SAS.html
+694,2024,"Mon, Jan 29, 2024",ORL,DAL,American Airlines Center,/boxscores/202401290DAL.html
+695,2024,"Mon, Jan 29, 2024",MIL,DEN,Ball Arena,/boxscores/202401290DEN.html
+696,2024,"Mon, Jan 29, 2024",PHI,POR,Moda Center,/boxscores/202401290POR.html
+697,2024,"Tue, Jan 30, 2024",LAL,ATL,State Farm Arena,/boxscores/202401300ATL.html
+698,2024,"Tue, Jan 30, 2024",IND,BOS,TD Garden,/boxscores/202401300BOS.html
+699,2024,"Tue, Jan 30, 2024",UTA,NYK,Madison Square Garden (IV),/boxscores/202401300NYK.html
+700,2024,"Tue, Jan 30, 2024",TOR,CHI,United Center,/boxscores/202401300CHI.html
+701,2024,"Tue, Jan 30, 2024",PHI,GSW,Chase Center,/boxscores/202401300GSW.html
+702,2024,"Wed, Jan 31, 2024",CHI,CHO,Spectrum Center,/boxscores/202401310CHO.html
+703,2024,"Wed, Jan 31, 2024",DET,CLE,Rocket Mortgage Fieldhouse,/boxscores/202401310CLE.html
+704,2024,"Wed, Jan 31, 2024",LAC,WAS,Capital One Arena,/boxscores/202401310WAS.html
+705,2024,"Wed, Jan 31, 2024",SAC,MIA,Kaseya Center,/boxscores/202401310MIA.html
+706,2024,"Wed, Jan 31, 2024",NOP,HOU,Toyota Center,/boxscores/202401310HOU.html
+707,2024,"Wed, Jan 31, 2024",DAL,MIN,Target Center,/boxscores/202401310MIN.html
+708,2024,"Wed, Jan 31, 2024",DEN,OKC,Paycom Center,/boxscores/202401310OKC.html
+709,2024,"Wed, Jan 31, 2024",ORL,SAS,Frost Bank Center,/boxscores/202401310SAS.html
+710,2024,"Wed, Jan 31, 2024",PHO,BRK,Barclays Center,/boxscores/202401310BRK.html
+711,2024,"Wed, Jan 31, 2024",MIL,POR,Moda Center,/boxscores/202401310POR.html
+712,2024,"Thu, Feb 1, 2024",LAL,BOS,TD Garden,/boxscores/202402010BOS.html
+713,2024,"Thu, Feb 1, 2024",IND,NYK,Madison Square Garden (IV),/boxscores/202402010NYK.html
+714,2024,"Thu, Feb 1, 2024",CLE,MEM,FedEx Forum,/boxscores/202402010MEM.html
+715,2024,"Thu, Feb 1, 2024",PHI,UTA,Delta Center,/boxscores/202402010UTA.html
+716,2024,"Fri, Feb 2, 2024",LAC,DET,Little Caesars Arena,/boxscores/202402020DET.html
+717,2024,"Fri, Feb 2, 2024",MIA,WAS,Capital One Arena,/boxscores/202402020WAS.html
+718,2024,"Fri, Feb 2, 2024",PHO,ATL,State Farm Arena,/boxscores/202402020ATL.html
+719,2024,"Fri, Feb 2, 2024",SAC,IND,Gainbridge Fieldhouse,/boxscores/202402020IND.html
+720,2024,"Fri, Feb 2, 2024",TOR,HOU,Toyota Center,/boxscores/202402020HOU.html
+721,2024,"Fri, Feb 2, 2024",GSW,MEM,FedEx Forum,/boxscores/202402020MEM.html
+722,2024,"Fri, Feb 2, 2024",ORL,MIN,Target Center,/boxscores/202402020MIN.html
+723,2024,"Fri, Feb 2, 2024",CHO,OKC,Paycom Center,/boxscores/202402020OKC.html
+724,2024,"Fri, Feb 2, 2024",NOP,SAS,Frost Bank Center,/boxscores/202402020SAS.html
+725,2024,"Fri, Feb 2, 2024",POR,DEN,Ball Arena,/boxscores/202402020DEN.html
+726,2024,"Sat, Feb 3, 2024",BRK,PHI,Wells Fargo Center,/boxscores/202402030PHI.html
+727,2024,"Sat, Feb 3, 2024",GSW,ATL,State Farm Arena,/boxscores/202402030ATL.html
+728,2024,"Sat, Feb 3, 2024",SAC,CHI,United Center,/boxscores/202402030CHI.html
+729,2024,"Sat, Feb 3, 2024",MIL,DAL,American Airlines Center,/boxscores/202402030DAL.html
+730,2024,"Sat, Feb 3, 2024",LAL,NYK,Madison Square Garden (IV),/boxscores/202402030NYK.html
+731,2024,"Sat, Feb 3, 2024",CLE,SAS,Frost Bank Center,/boxscores/202402030SAS.html
+732,2024,"Sun, Feb 4, 2024",ORL,DET,Little Caesars Arena,/boxscores/202402040DET.html
+733,2024,"Sun, Feb 4, 2024",PHO,WAS,Capital One Arena,/boxscores/202402040WAS.html
+734,2024,"Sun, Feb 4, 2024",MEM,BOS,TD Garden,/boxscores/202402040BOS.html
+735,2024,"Sun, Feb 4, 2024",IND,CHO,Spectrum Center,/boxscores/202402040CHO.html
+736,2024,"Sun, Feb 4, 2024",LAC,MIA,Kaseya Center,/boxscores/202402040MIA.html
+737,2024,"Sun, Feb 4, 2024",HOU,MIN,Target Center,/boxscores/202402040MIN.html
+738,2024,"Sun, Feb 4, 2024",TOR,OKC,Paycom Center,/boxscores/202402040OKC.html
+739,2024,"Sun, Feb 4, 2024",MIL,UTA,Delta Center,/boxscores/202402040UTA.html
+740,2024,"Sun, Feb 4, 2024",POR,DEN,Ball Arena,/boxscores/202402040DEN.html
+741,2024,"Mon, Feb 5, 2024",LAL,CHO,Spectrum Center,/boxscores/202402050CHO.html
+742,2024,"Mon, Feb 5, 2024",SAC,CLE,Rocket Mortgage Fieldhouse,/boxscores/202402050CLE.html
+743,2024,"Mon, Feb 5, 2024",DAL,PHI,Wells Fargo Center,/boxscores/202402050PHI.html
+744,2024,"Mon, Feb 5, 2024",LAC,ATL,State Farm Arena,/boxscores/202402050ATL.html
+745,2024,"Mon, Feb 5, 2024",GSW,BRK,Barclays Center,/boxscores/202402050BRK.html
+746,2024,"Mon, Feb 5, 2024",TOR,NOP,Smoothie King Center,/boxscores/202402050NOP.html
+747,2024,"Tue, Feb 6, 2024",HOU,IND,Gainbridge Fieldhouse,/boxscores/202402060IND.html
+748,2024,"Tue, Feb 6, 2024",DAL,BRK,Barclays Center,/boxscores/202402060BRK.html
+749,2024,"Tue, Feb 6, 2024",ORL,MIA,Kaseya Center,/boxscores/202402060MIA.html
+750,2024,"Tue, Feb 6, 2024",MEM,NYK,Madison Square Garden (IV),/boxscores/202402060NYK.html
+751,2024,"Tue, Feb 6, 2024",MIN,CHI,United Center,/boxscores/202402060CHI.html
+752,2024,"Tue, Feb 6, 2024",OKC,UTA,Delta Center,/boxscores/202402060UTA.html
+753,2024,"Tue, Feb 6, 2024",MIL,PHO,Footprint Center,/boxscores/202402060PHO.html
+754,2024,"Wed, Feb 7, 2024",TOR,CHO,Spectrum Center,/boxscores/202402070CHO.html
+755,2024,"Wed, Feb 7, 2024",CLE,WAS,Capital One Arena,/boxscores/202402070WAS.html
+756,2024,"Wed, Feb 7, 2024",ATL,BOS,TD Garden,/boxscores/202402070BOS.html
+757,2024,"Wed, Feb 7, 2024",SAS,MIA,Kaseya Center,/boxscores/202402070MIA.html
+758,2024,"Wed, Feb 7, 2024",GSW,PHI,Wells Fargo Center,/boxscores/202402070PHI.html
+759,2024,"Wed, Feb 7, 2024",NOP,LAC,Crypto.com Arena,/boxscores/202402070LAC.html
+760,2024,"Wed, Feb 7, 2024",DET,SAC,Golden 1 Center,/boxscores/202402070SAC.html
+761,2024,"Thu, Feb 8, 2024",GSW,IND,Gainbridge Fieldhouse,/boxscores/202402080IND.html
+762,2024,"Thu, Feb 8, 2024",SAS,ORL,Kia Center,/boxscores/202402080ORL.html
+763,2024,"Thu, Feb 8, 2024",CLE,BRK,Barclays Center,/boxscores/202402080BRK.html
+764,2024,"Thu, Feb 8, 2024",DAL,NYK,Madison Square Garden (IV),/boxscores/202402080NYK.html
+765,2024,"Thu, Feb 8, 2024",CHI,MEM,FedEx Forum,/boxscores/202402080MEM.html
+766,2024,"Thu, Feb 8, 2024",MIN,MIL,Fiserv Forum,/boxscores/202402080MIL.html
+767,2024,"Thu, Feb 8, 2024",UTA,PHO,Footprint Center,/boxscores/202402080PHO.html
+768,2024,"Thu, Feb 8, 2024",DEN,LAL,Crypto.com Arena,/boxscores/202402080LAL.html
+769,2024,"Thu, Feb 8, 2024",DET,POR,Moda Center,/boxscores/202402080POR.html
+770,2024,"Fri, Feb 9, 2024",ATL,PHI,Wells Fargo Center,/boxscores/202402090PHI.html
+771,2024,"Fri, Feb 9, 2024",WAS,BOS,TD Garden,/boxscores/202402090BOS.html
+772,2024,"Fri, Feb 9, 2024",HOU,TOR,Scotiabank Arena,/boxscores/202402090TOR.html
+773,2024,"Fri, Feb 9, 2024",CHO,MIL,Fiserv Forum,/boxscores/202402090MIL.html
+774,2024,"Fri, Feb 9, 2024",DEN,SAC,Golden 1 Center,/boxscores/202402090SAC.html
+775,2024,"Fri, Feb 9, 2024",NOP,LAL,Crypto.com Arena,/boxscores/202402090LAL.html
+776,2024,"Sat, Feb 10, 2024",OKC,DAL,American Airlines Center,/boxscores/202402100DAL.html
+777,2024,"Sat, Feb 10, 2024",DET,LAC,Crypto.com Arena,/boxscores/202402100LAC.html
+778,2024,"Sat, Feb 10, 2024",SAS,BRK,Barclays Center,/boxscores/202402100BRK.html
+779,2024,"Sat, Feb 10, 2024",MEM,CHO,Spectrum Center,/boxscores/202402100CHO.html
+780,2024,"Sat, Feb 10, 2024",CHI,ORL,Kia Center,/boxscores/202402100ORL.html
+781,2024,"Sat, Feb 10, 2024",PHI,WAS,Capital One Arena,/boxscores/202402100WAS.html
+782,2024,"Sat, Feb 10, 2024",HOU,ATL,State Farm Arena,/boxscores/202402100ATL.html
+783,2024,"Sat, Feb 10, 2024",IND,NYK,Madison Square Garden (IV),/boxscores/202402100NYK.html
+784,2024,"Sat, Feb 10, 2024",CLE,TOR,Scotiabank Arena,/boxscores/202402100TOR.html
+785,2024,"Sat, Feb 10, 2024",PHO,GSW,Chase Center,/boxscores/202402100GSW.html
+786,2024,"Sat, Feb 10, 2024",NOP,POR,Moda Center,/boxscores/202402100POR.html
+787,2024,"Sun, Feb 11, 2024",BOS,MIA,Kaseya Center,/boxscores/202402110MIA.html
+788,2024,"Sun, Feb 11, 2024",SAC,OKC,Paycom Center,/boxscores/202402110OKC.html
+789,2024,"Mon, Feb 12, 2024",IND,CHO,Spectrum Center,/boxscores/202402120CHO.html
+790,2024,"Mon, Feb 12, 2024",PHI,CLE,Rocket Mortgage Fieldhouse,/boxscores/202402120CLE.html
+791,2024,"Mon, Feb 12, 2024",CHI,ATL,State Farm Arena,/boxscores/202402120ATL.html
+792,2024,"Mon, Feb 12, 2024",SAS,TOR,Scotiabank Arena,/boxscores/202402120TOR.html
+793,2024,"Mon, Feb 12, 2024",NYK,HOU,Toyota Center,/boxscores/202402120HOU.html
+794,2024,"Mon, Feb 12, 2024",NOP,MEM,FedEx Forum,/boxscores/202402120MEM.html
+795,2024,"Mon, Feb 12, 2024",DEN,MIL,Fiserv Forum,/boxscores/202402120MIL.html
+796,2024,"Mon, Feb 12, 2024",WAS,DAL,American Airlines Center,/boxscores/202402120DAL.html
+797,2024,"Mon, Feb 12, 2024",GSW,UTA,Delta Center,/boxscores/202402120UTA.html
+798,2024,"Mon, Feb 12, 2024",MIN,LAC,Crypto.com Arena,/boxscores/202402120LAC.html
+799,2024,"Tue, Feb 13, 2024",BOS,BRK,Barclays Center,/boxscores/202402130BRK.html
+800,2024,"Tue, Feb 13, 2024",OKC,ORL,Kia Center,/boxscores/202402130ORL.html
+801,2024,"Tue, Feb 13, 2024",MIA,MIL,Fiserv Forum,/boxscores/202402130MIL.html
+802,2024,"Tue, Feb 13, 2024",SAC,PHO,Footprint Center,/boxscores/202402130PHO.html
+803,2024,"Tue, Feb 13, 2024",MIN,POR,Moda Center,/boxscores/202402130POR.html
+804,2024,"Tue, Feb 13, 2024",DET,LAL,Crypto.com Arena,/boxscores/202402130LAL.html
+805,2024,"Wed, Feb 14, 2024",ATL,CHO,Spectrum Center,/boxscores/202402140CHO.html
+806,2024,"Wed, Feb 14, 2024",NYK,ORL,Kia Center,/boxscores/202402140ORL.html
+807,2024,"Wed, Feb 14, 2024",MIA,PHI,Wells Fargo Center,/boxscores/202402140PHI.html
+808,2024,"Wed, Feb 14, 2024",BRK,BOS,TD Garden,/boxscores/202402140BOS.html
+809,2024,"Wed, Feb 14, 2024",CHI,CLE,Rocket Mortgage Fieldhouse,/boxscores/202402140CLE.html
+810,2024,"Wed, Feb 14, 2024",IND,TOR,Scotiabank Arena,/boxscores/202402140TOR.html
+811,2024,"Wed, Feb 14, 2024",HOU,MEM,FedEx Forum,/boxscores/202402140MEM.html
+812,2024,"Wed, Feb 14, 2024",WAS,NOP,Smoothie King Center,/boxscores/202402140NOP.html
+813,2024,"Wed, Feb 14, 2024",SAS,DAL,American Airlines Center,/boxscores/202402140DAL.html
+814,2024,"Wed, Feb 14, 2024",SAC,DEN,Ball Arena,/boxscores/202402140DEN.html
+815,2024,"Wed, Feb 14, 2024",DET,PHO,Footprint Center,/boxscores/202402140PHO.html
+816,2024,"Wed, Feb 14, 2024",LAL,UTA,Delta Center,/boxscores/202402140UTA.html
+817,2024,"Wed, Feb 14, 2024",LAC,GSW,Chase Center,/boxscores/202402140GSW.html
+818,2024,"Thu, Feb 15, 2024",MIL,MEM,FedEx Forum,/boxscores/202402150MEM.html
+819,2024,"Thu, Feb 15, 2024",GSW,UTA,Delta Center,/boxscores/202402150UTA.html
+820,2024,"Thu, Feb 15, 2024",MIN,POR,Moda Center,/boxscores/202402150POR.html
+821,2024,"Thu, Feb 22, 2024",ORL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202402220CLE.html
+822,2024,"Thu, Feb 22, 2024",DET,IND,Gainbridge Fieldhouse,/boxscores/202402220IND.html
+823,2024,"Thu, Feb 22, 2024",NYK,PHI,Wells Fargo Center,/boxscores/202402220PHI.html
+824,2024,"Thu, Feb 22, 2024",BRK,TOR,Scotiabank Arena,/boxscores/202402220TOR.html
+825,2024,"Thu, Feb 22, 2024",PHO,DAL,American Airlines Center,/boxscores/202402220DAL.html
+826,2024,"Thu, Feb 22, 2024",BOS,CHI,United Center,/boxscores/202402220CHI.html
+827,2024,"Thu, Feb 22, 2024",HOU,NOP,Smoothie King Center,/boxscores/202402220NOP.html
+828,2024,"Thu, Feb 22, 2024",LAC,OKC,Paycom Center,/boxscores/202402220OKC.html
+829,2024,"Thu, Feb 22, 2024",WAS,DEN,Ball Arena,/boxscores/202402220DEN.html
+830,2024,"Thu, Feb 22, 2024",CHO,UTA,Delta Center,/boxscores/202402220UTA.html
+831,2024,"Thu, Feb 22, 2024",LAL,GSW,Chase Center,/boxscores/202402220GSW.html
+832,2024,"Thu, Feb 22, 2024",SAS,SAC,Golden 1 Center,/boxscores/202402220SAC.html
+833,2024,"Fri, Feb 23, 2024",TOR,ATL,State Farm Arena,/boxscores/202402230ATL.html
+834,2024,"Fri, Feb 23, 2024",CLE,PHI,Wells Fargo Center,/boxscores/202402230PHI.html
+835,2024,"Fri, Feb 23, 2024",PHO,HOU,Toyota Center,/boxscores/202402230HOU.html
+836,2024,"Fri, Feb 23, 2024",LAC,MEM,FedEx Forum,/boxscores/202402230MEM.html
+837,2024,"Fri, Feb 23, 2024",MIA,NOP,Smoothie King Center,/boxscores/202402230NOP.html
+838,2024,"Fri, Feb 23, 2024",WAS,OKC,Paycom Center,/boxscores/202402230OKC.html
+839,2024,"Fri, Feb 23, 2024",CHO,GSW,Chase Center,/boxscores/202402230GSW.html
+840,2024,"Fri, Feb 23, 2024",MIL,MIN,Target Center,/boxscores/202402230MIN.html
+841,2024,"Fri, Feb 23, 2024",DEN,POR,Moda Center,/boxscores/202402230POR.html
+842,2024,"Fri, Feb 23, 2024",SAS,LAL,Crypto.com Arena,/boxscores/202402230LAL.html
+843,2024,"Sat, Feb 24, 2024",ORL,DET,Little Caesars Arena,/boxscores/202402240DET.html
+844,2024,"Sat, Feb 24, 2024",BOS,NYK,Madison Square Garden (IV),/boxscores/202402240NYK.html
+845,2024,"Sat, Feb 24, 2024",BRK,MIN,Target Center,/boxscores/202402240MIN.html
+846,2024,"Sun, Feb 25, 2024",MIL,PHI,Wells Fargo Center,/boxscores/202402250PHI.html
+847,2024,"Sun, Feb 25, 2024",LAL,PHO,Footprint Center,/boxscores/202402250PHO.html
+848,2024,"Sun, Feb 25, 2024",DAL,IND,Gainbridge Fieldhouse,/boxscores/202402250IND.html
+849,2024,"Sun, Feb 25, 2024",CLE,WAS,Capital One Arena,/boxscores/202402250WAS.html
+850,2024,"Sun, Feb 25, 2024",ORL,ATL,State Farm Arena,/boxscores/202402250ATL.html
+851,2024,"Sun, Feb 25, 2024",DEN,GSW,Chase Center,/boxscores/202402250GSW.html
+852,2024,"Sun, Feb 25, 2024",OKC,HOU,Toyota Center,/boxscores/202402250HOU.html
+853,2024,"Sun, Feb 25, 2024",CHI,NOP,Smoothie King Center,/boxscores/202402250NOP.html
+854,2024,"Sun, Feb 25, 2024",SAS,UTA,Delta Center,/boxscores/202402250UTA.html
+855,2024,"Sun, Feb 25, 2024",CHO,POR,Moda Center,/boxscores/202402250POR.html
+856,2024,"Sun, Feb 25, 2024",SAC,LAC,Crypto.com Arena,/boxscores/202402250LAC.html
+857,2024,"Mon, Feb 26, 2024",TOR,IND,Gainbridge Fieldhouse,/boxscores/202402260IND.html
+858,2024,"Mon, Feb 26, 2024",DET,NYK,Madison Square Garden (IV),/boxscores/202402260NYK.html
+859,2024,"Mon, Feb 26, 2024",BRK,MEM,FedEx Forum,/boxscores/202402260MEM.html
+860,2024,"Mon, Feb 26, 2024",MIA,SAC,Golden 1 Center,/boxscores/202402260SAC.html
+861,2024,"Tue, Feb 27, 2024",DAL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202402270CLE.html
+862,2024,"Tue, Feb 27, 2024",BRK,ORL,Kia Center,/boxscores/202402270ORL.html
+863,2024,"Tue, Feb 27, 2024",GSW,WAS,Capital One Arena,/boxscores/202402270WAS.html
+864,2024,"Tue, Feb 27, 2024",UTA,ATL,State Farm Arena,/boxscores/202402270ATL.html
+865,2024,"Tue, Feb 27, 2024",PHI,BOS,TD Garden,/boxscores/202402270BOS.html
+866,2024,"Tue, Feb 27, 2024",NOP,NYK,Madison Square Garden (IV),/boxscores/202402270NYK.html
+867,2024,"Tue, Feb 27, 2024",DET,CHI,United Center,/boxscores/202402270CHI.html
+868,2024,"Tue, Feb 27, 2024",CHO,MIL,Fiserv Forum,/boxscores/202402270MIL.html
+869,2024,"Tue, Feb 27, 2024",SAS,MIN,Target Center,/boxscores/202402270MIN.html
+870,2024,"Tue, Feb 27, 2024",HOU,OKC,Paycom Center,/boxscores/202402270OKC.html
+871,2024,"Tue, Feb 27, 2024",MIA,POR,Moda Center,/boxscores/202402270POR.html
+872,2024,"Wed, Feb 28, 2024",NOP,IND,Gainbridge Fieldhouse,/boxscores/202402280IND.html
+873,2024,"Wed, Feb 28, 2024",DAL,TOR,Scotiabank Arena,/boxscores/202402280TOR.html
+874,2024,"Wed, Feb 28, 2024",CLE,CHI,United Center,/boxscores/202402280CHI.html
+875,2024,"Wed, Feb 28, 2024",MEM,MIN,Target Center,/boxscores/202402280MIN.html
+876,2024,"Wed, Feb 28, 2024",SAC,DEN,Ball Arena,/boxscores/202402280DEN.html
+877,2024,"Wed, Feb 28, 2024",LAL,LAC,Crypto.com Arena,/boxscores/202402280LAC.html
+878,2024,"Thu, Feb 29, 2024",MIL,CHO,Spectrum Center,/boxscores/202402290CHO.html
+879,2024,"Thu, Feb 29, 2024",UTA,ORL,Kia Center,/boxscores/202402290ORL.html
+880,2024,"Thu, Feb 29, 2024",ATL,BRK,Barclays Center,/boxscores/202402290BRK.html
+881,2024,"Thu, Feb 29, 2024",GSW,NYK,Madison Square Garden (IV),/boxscores/202402290NYK.html
+882,2024,"Thu, Feb 29, 2024",OKC,SAS,Frost Bank Center,/boxscores/202402290SAS.html
+883,2024,"Thu, Feb 29, 2024",HOU,PHO,Footprint Center,/boxscores/202402290PHO.html
+884,2024,"Thu, Feb 29, 2024",MIA,DEN,Ball Arena,/boxscores/202402290DEN.html
+885,2024,"Thu, Feb 29, 2024",WAS,LAL,Crypto.com Arena,/boxscores/202402290LAL.html
+886,2024,"Fri, Mar 1, 2024",CLE,DET,Little Caesars Arena,/boxscores/202403010DET.html
+887,2024,"Fri, Mar 1, 2024",CHO,PHI,Wells Fargo Center,/boxscores/202403010PHI.html
+888,2024,"Fri, Mar 1, 2024",DAL,BOS,TD Garden,/boxscores/202403010BOS.html
+889,2024,"Fri, Mar 1, 2024",GSW,TOR,Scotiabank Arena,/boxscores/202403010TOR.html
+890,2024,"Fri, Mar 1, 2024",POR,MEM,FedEx Forum,/boxscores/202403010MEM.html
+891,2024,"Fri, Mar 1, 2024",SAC,MIN,Target Center,/boxscores/202403010MIN.html
+892,2024,"Fri, Mar 1, 2024",IND,NOP,Smoothie King Center,/boxscores/202403010NOP.html
+893,2024,"Fri, Mar 1, 2024",MIL,CHI,United Center,/boxscores/202403010CHI.html
+894,2024,"Fri, Mar 1, 2024",WAS,LAC,Crypto.com Arena,/boxscores/202403010LAC.html
+895,2024,"Sat, Mar 2, 2024",ATL,BRK,Barclays Center,/boxscores/202403020BRK.html
+896,2024,"Sat, Mar 2, 2024",UTA,MIA,Kaseya Center,/boxscores/202403020MIA.html
+897,2024,"Sat, Mar 2, 2024",POR,MEM,FedEx Forum,/boxscores/202403020MEM.html
+898,2024,"Sat, Mar 2, 2024",DEN,LAL,Crypto.com Arena,/boxscores/202403020LAL.html
+899,2024,"Sat, Mar 2, 2024",HOU,PHO,Footprint Center,/boxscores/202403020PHO.html
+900,2024,"Sun, Mar 3, 2024",PHI,DAL,American Airlines Center,/boxscores/202403030DAL.html
+901,2024,"Sun, Mar 3, 2024",GSW,BOS,TD Garden,/boxscores/202403030BOS.html
+902,2024,"Sun, Mar 3, 2024",LAC,MIN,Target Center,/boxscores/202403030MIN.html
+903,2024,"Sun, Mar 3, 2024",DET,ORL,Kia Center,/boxscores/202403030ORL.html
+904,2024,"Sun, Mar 3, 2024",CHO,TOR,Scotiabank Arena,/boxscores/202403030TOR.html
+905,2024,"Sun, Mar 3, 2024",NYK,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403030CLE.html
+906,2024,"Sun, Mar 3, 2024",IND,SAS,Frost Bank Center,/boxscores/202403030SAS.html
+907,2024,"Sun, Mar 3, 2024",OKC,PHO,Footprint Center,/boxscores/202403030PHO.html
+908,2024,"Mon, Mar 4, 2024",MEM,BRK,Barclays Center,/boxscores/202403040BRK.html
+909,2024,"Mon, Mar 4, 2024",LAC,MIL,Fiserv Forum,/boxscores/202403040MIL.html
+910,2024,"Mon, Mar 4, 2024",POR,MIN,Target Center,/boxscores/202403040MIN.html
+911,2024,"Mon, Mar 4, 2024",WAS,UTA,Delta Center,/boxscores/202403040UTA.html
+912,2024,"Mon, Mar 4, 2024",CHI,SAC,Golden 1 Center,/boxscores/202403040SAC.html
+913,2024,"Mon, Mar 4, 2024",OKC,LAL,Crypto.com Arena,/boxscores/202403040LAL.html
+914,2024,"Tue, Mar 5, 2024",ORL,CHO,Spectrum Center,/boxscores/202403050CHO.html
+915,2024,"Tue, Mar 5, 2024",PHI,BRK,Barclays Center,/boxscores/202403050BRK.html
+916,2024,"Tue, Mar 5, 2024",BOS,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403050CLE.html
+917,2024,"Tue, Mar 5, 2024",DET,MIA,Kaseya Center,/boxscores/202403050MIA.html
+918,2024,"Tue, Mar 5, 2024",ATL,NYK,Madison Square Garden (IV),/boxscores/202403050NYK.html
+919,2024,"Tue, Mar 5, 2024",NOP,TOR,Scotiabank Arena,/boxscores/202403050TOR.html
+920,2024,"Tue, Mar 5, 2024",SAS,HOU,Toyota Center,/boxscores/202403050HOU.html
+921,2024,"Tue, Mar 5, 2024",IND,DAL,American Airlines Center,/boxscores/202403050DAL.html
+922,2024,"Tue, Mar 5, 2024",PHO,DEN,Ball Arena,/boxscores/202403050DEN.html
+923,2024,"Wed, Mar 6, 2024",ORL,WAS,Capital One Arena,/boxscores/202403060WAS.html
+924,2024,"Wed, Mar 6, 2024",CLE,ATL,State Farm Arena,/boxscores/202403060ATL.html
+925,2024,"Wed, Mar 6, 2024",LAC,HOU,Toyota Center,/boxscores/202403060HOU.html
+926,2024,"Wed, Mar 6, 2024",MEM,PHI,Wells Fargo Center,/boxscores/202403060PHI.html
+927,2024,"Wed, Mar 6, 2024",CHI,UTA,Delta Center,/boxscores/202403060UTA.html
+928,2024,"Wed, Mar 6, 2024",MIL,GSW,Chase Center,/boxscores/202403060GSW.html
+929,2024,"Wed, Mar 6, 2024",OKC,POR,Moda Center,/boxscores/202403060POR.html
+930,2024,"Wed, Mar 6, 2024",SAC,LAL,Crypto.com Arena,/boxscores/202403060LAL.html
+931,2024,"Thu, Mar 7, 2024",BRK,DET,Little Caesars Arena,/boxscores/202403070DET.html
+932,2024,"Thu, Mar 7, 2024",MIN,IND,Gainbridge Fieldhouse,/boxscores/202403070IND.html
+933,2024,"Thu, Mar 7, 2024",MIA,DAL,American Airlines Center,/boxscores/202403070DAL.html
+934,2024,"Thu, Mar 7, 2024",TOR,PHO,Footprint Center,/boxscores/202403070PHO.html
+935,2024,"Thu, Mar 7, 2024",BOS,DEN,Ball Arena,/boxscores/202403070DEN.html
+936,2024,"Thu, Mar 7, 2024",CHI,GSW,Chase Center,/boxscores/202403070GSW.html
+937,2024,"Thu, Mar 7, 2024",SAS,SAC,Golden 1 Center,/boxscores/202403070SAC.html
+938,2024,"Fri, Mar 8, 2024",NOP,PHI,Wells Fargo Center,/boxscores/202403080PHI.html
+939,2024,"Fri, Mar 8, 2024",CHO,WAS,Capital One Arena,/boxscores/202403080WAS.html
+940,2024,"Fri, Mar 8, 2024",MIN,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403080CLE.html
+941,2024,"Fri, Mar 8, 2024",ORL,NYK,Madison Square Garden (IV),/boxscores/202403080NYK.html
+942,2024,"Fri, Mar 8, 2024",ATL,MEM,FedEx Forum,/boxscores/202403080MEM.html
+943,2024,"Fri, Mar 8, 2024",MIA,OKC,Paycom Center,/boxscores/202403080OKC.html
+944,2024,"Fri, Mar 8, 2024",MIL,LAL,Crypto.com Arena,/boxscores/202403080LAL.html
+945,2024,"Fri, Mar 8, 2024",HOU,POR,Moda Center,/boxscores/202403080POR.html
+946,2024,"Sat, Mar 9, 2024",CHI,LAC,Crypto.com Arena,/boxscores/202403090LAC.html
+947,2024,"Sat, Mar 9, 2024",BRK,CHO,Spectrum Center,/boxscores/202403090CHO.html
+948,2024,"Sat, Mar 9, 2024",DAL,DET,Little Caesars Arena,/boxscores/202403090DET.html
+949,2024,"Sat, Mar 9, 2024",SAS,GSW,Chase Center,/boxscores/202403090GSW.html
+950,2024,"Sat, Mar 9, 2024",BOS,PHO,Footprint Center,/boxscores/202403090PHO.html
+951,2024,"Sat, Mar 9, 2024",UTA,DEN,Ball Arena,/boxscores/202403090DEN.html
+952,2024,"Sat, Mar 9, 2024",TOR,POR,Moda Center,/boxscores/202403090POR.html
+953,2024,"Sun, Mar 10, 2024",MIL,LAC,Crypto.com Arena,/boxscores/202403100LAC.html
+954,2024,"Sun, Mar 10, 2024",NOP,ATL,State Farm Arena,/boxscores/202403100ATL.html
+955,2024,"Sun, Mar 10, 2024",WAS,MIA,Kaseya Center,/boxscores/202403100MIA.html
+956,2024,"Sun, Mar 10, 2024",IND,ORL,Kia Center,/boxscores/202403100ORL.html
+957,2024,"Sun, Mar 10, 2024",HOU,SAC,Golden 1 Center,/boxscores/202403100SAC.html
+958,2024,"Sun, Mar 10, 2024",BRK,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403100CLE.html
+959,2024,"Sun, Mar 10, 2024",PHI,NYK,Madison Square Garden (IV),/boxscores/202403100NYK.html
+960,2024,"Sun, Mar 10, 2024",MEM,OKC,Paycom Center,/boxscores/202403100OKC.html
+961,2024,"Sun, Mar 10, 2024",MIN,LAL,Crypto.com Arena,/boxscores/202403100LAL.html
+962,2024,"Mon, Mar 11, 2024",CHO,DET,Little Caesars Arena,/boxscores/202403110DET.html
+963,2024,"Mon, Mar 11, 2024",PHO,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403110CLE.html
+964,2024,"Mon, Mar 11, 2024",DAL,CHI,United Center,/boxscores/202403110CHI.html
+965,2024,"Mon, Mar 11, 2024",GSW,SAS,Frost Bank Center,/boxscores/202403110SAS.html
+966,2024,"Mon, Mar 11, 2024",TOR,DEN,Ball Arena,/boxscores/202403110DEN.html
+967,2024,"Mon, Mar 11, 2024",BOS,POR,Moda Center,/boxscores/202403110POR.html
+968,2024,"Tue, Mar 12, 2024",PHI,NYK,Madison Square Garden (IV),/boxscores/202403120NYK.html
+969,2024,"Tue, Mar 12, 2024",WAS,MEM,FedEx Forum,/boxscores/202403120MEM.html
+970,2024,"Tue, Mar 12, 2024",IND,OKC,Paycom Center,/boxscores/202403120OKC.html
+971,2024,"Tue, Mar 12, 2024",HOU,SAS,Frost Bank Center,/boxscores/202403120SAS.html
+972,2024,"Tue, Mar 12, 2024",BOS,UTA,Delta Center,/boxscores/202403120UTA.html
+973,2024,"Tue, Mar 12, 2024",MIN,LAC,Crypto.com Arena,/boxscores/202403120LAC.html
+974,2024,"Tue, Mar 12, 2024",MIL,SAC,Golden 1 Center,/boxscores/202403120SAC.html
+975,2024,"Wed, Mar 13, 2024",TOR,DET,Little Caesars Arena,/boxscores/202403130DET.html
+976,2024,"Wed, Mar 13, 2024",BRK,ORL,Kia Center,/boxscores/202403130ORL.html
+977,2024,"Wed, Mar 13, 2024",CHI,IND,Gainbridge Fieldhouse,/boxscores/202403130IND.html
+978,2024,"Wed, Mar 13, 2024",DEN,MIA,Kaseya Center,/boxscores/202403130MIA.html
+979,2024,"Wed, Mar 13, 2024",CHO,MEM,FedEx Forum,/boxscores/202403130MEM.html
+980,2024,"Wed, Mar 13, 2024",CLE,NOP,Smoothie King Center,/boxscores/202403130NOP.html
+981,2024,"Wed, Mar 13, 2024",GSW,DAL,American Airlines Center,/boxscores/202403130DAL.html
+982,2024,"Wed, Mar 13, 2024",ATL,POR,Moda Center,/boxscores/202403130POR.html
+983,2024,"Wed, Mar 13, 2024",LAL,SAC,Golden 1 Center,/boxscores/202403130SAC.html
+984,2024,"Thu, Mar 14, 2024",PHO,BOS,TD Garden,/boxscores/202403140BOS.html
+985,2024,"Thu, Mar 14, 2024",LAC,CHI,United Center,/boxscores/202403140CHI.html
+986,2024,"Thu, Mar 14, 2024",WAS,HOU,Toyota Center,/boxscores/202403140HOU.html
+987,2024,"Thu, Mar 14, 2024",PHI,MIL,Fiserv Forum,/boxscores/202403140MIL.html
+988,2024,"Thu, Mar 14, 2024",DAL,OKC,Paycom Center,/boxscores/202403140OKC.html
+989,2024,"Thu, Mar 14, 2024",NYK,POR,Moda Center,/boxscores/202403140POR.html
+990,2024,"Fri, Mar 15, 2024",PHO,CHO,Spectrum Center,/boxscores/202403150CHO.html
+991,2024,"Fri, Mar 15, 2024",MIA,DET,Little Caesars Arena,/boxscores/202403150DET.html
+992,2024,"Fri, Mar 15, 2024",ORL,TOR,Scotiabank Arena,/boxscores/202403150TOR.html
+993,2024,"Fri, Mar 15, 2024",LAC,NOP,Smoothie King Center,/boxscores/202403150NOP.html
+994,2024,"Fri, Mar 15, 2024",DEN,SAS,Moody Center,/boxscores/202403150SAS.html
+995,2024,"Fri, Mar 15, 2024",ATL,UTA,Delta Center,/boxscores/202403150UTA.html
+996,2024,"Sat, Mar 16, 2024",CLE,HOU,Toyota Center,/boxscores/202403160HOU.html
+997,2024,"Sat, Mar 16, 2024",BRK,IND,Gainbridge Fieldhouse,/boxscores/202403160IND.html
+998,2024,"Sat, Mar 16, 2024",POR,NOP,Smoothie King Center,/boxscores/202403160NOP.html
+999,2024,"Sat, Mar 16, 2024",CHO,PHI,Wells Fargo Center,/boxscores/202403160PHI.html
+1000,2024,"Sat, Mar 16, 2024",WAS,CHI,United Center,/boxscores/202403160CHI.html
+1001,2024,"Sat, Mar 16, 2024",OKC,MEM,FedEx Forum,/boxscores/202403160MEM.html
+1002,2024,"Sat, Mar 16, 2024",GSW,LAL,Crypto.com Arena,/boxscores/202403160LAL.html
+1003,2024,"Sat, Mar 16, 2024",MIN,UTA,Delta Center,/boxscores/202403160UTA.html
+1004,2024,"Sat, Mar 16, 2024",NYK,SAC,Golden 1 Center,/boxscores/202403160SAC.html
+1005,2024,"Sun, Mar 17, 2024",PHO,MIL,Fiserv Forum,/boxscores/202403170MIL.html
+1006,2024,"Sun, Mar 17, 2024",MIA,DET,Little Caesars Arena,/boxscores/202403170DET.html
+1007,2024,"Sun, Mar 17, 2024",DEN,DAL,American Airlines Center,/boxscores/202403170DAL.html
+1008,2024,"Sun, Mar 17, 2024",TOR,ORL,Kia Center,/boxscores/202403170ORL.html
+1009,2024,"Sun, Mar 17, 2024",BOS,WAS,Capital One Arena,/boxscores/202403170WAS.html
+1010,2024,"Sun, Mar 17, 2024",BRK,SAS,Moody Center,/boxscores/202403170SAS.html
+1011,2024,"Sun, Mar 17, 2024",ATL,LAC,Crypto.com Arena,/boxscores/202403170LAC.html
+1012,2024,"Mon, Mar 18, 2024",CLE,IND,Gainbridge Fieldhouse,/boxscores/202403180IND.html
+1013,2024,"Mon, Mar 18, 2024",DET,BOS,TD Garden,/boxscores/202403180BOS.html
+1014,2024,"Mon, Mar 18, 2024",MIA,PHI,Wells Fargo Center,/boxscores/202403180PHI.html
+1015,2024,"Mon, Mar 18, 2024",POR,CHI,United Center,/boxscores/202403180CHI.html
+1016,2024,"Mon, Mar 18, 2024",MIN,UTA,Delta Center,/boxscores/202403180UTA.html
+1017,2024,"Mon, Mar 18, 2024",NYK,GSW,Chase Center,/boxscores/202403180GSW.html
+1018,2024,"Mon, Mar 18, 2024",MEM,SAC,Golden 1 Center,/boxscores/202403180SAC.html
+1019,2024,"Mon, Mar 18, 2024",ATL,LAL,Crypto.com Arena,/boxscores/202403180LAL.html
+1020,2024,"Tue, Mar 19, 2024",CHO,ORL,Kia Center,/boxscores/202403190ORL.html
+1021,2024,"Tue, Mar 19, 2024",HOU,WAS,Capital One Arena,/boxscores/202403190WAS.html
+1022,2024,"Tue, Mar 19, 2024",NOP,BRK,Barclays Center,/boxscores/202403190BRK.html
+1023,2024,"Tue, Mar 19, 2024",DAL,SAS,Frost Bank Center,/boxscores/202403190SAS.html
+1024,2024,"Tue, Mar 19, 2024",DEN,MIN,Target Center,/boxscores/202403190MIN.html
+1025,2024,"Wed, Mar 20, 2024",MIA,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403200CLE.html
+1026,2024,"Wed, Mar 20, 2024",IND,DET,Little Caesars Arena,/boxscores/202403200DET.html
+1027,2024,"Wed, Mar 20, 2024",MIL,BOS,TD Garden,/boxscores/202403200BOS.html
+1028,2024,"Wed, Mar 20, 2024",SAC,TOR,Scotiabank Arena,/boxscores/202403200TOR.html
+1029,2024,"Wed, Mar 20, 2024",UTA,OKC,Paycom Center,/boxscores/202403200OKC.html
+1030,2024,"Wed, Mar 20, 2024",MEM,GSW,Chase Center,/boxscores/202403200GSW.html
+1031,2024,"Wed, Mar 20, 2024",PHI,PHO,Footprint Center,/boxscores/202403200PHO.html
+1032,2024,"Wed, Mar 20, 2024",LAC,POR,Moda Center,/boxscores/202403200POR.html
+1033,2024,"Thu, Mar 21, 2024",NOP,ORL,Kia Center,/boxscores/202403210ORL.html
+1034,2024,"Thu, Mar 21, 2024",SAC,WAS,Capital One Arena,/boxscores/202403210WAS.html
+1035,2024,"Thu, Mar 21, 2024",CHI,HOU,Toyota Center,/boxscores/202403210HOU.html
+1036,2024,"Thu, Mar 21, 2024",BRK,MIL,Fiserv Forum,/boxscores/202403210MIL.html
+1037,2024,"Thu, Mar 21, 2024",UTA,DAL,American Airlines Center,/boxscores/202403210DAL.html
+1038,2024,"Thu, Mar 21, 2024",NYK,DEN,Ball Arena,/boxscores/202403210DEN.html
+1039,2024,"Thu, Mar 21, 2024",ATL,PHO,Footprint Center,/boxscores/202403210PHO.html
+1040,2024,"Fri, Mar 22, 2024",BOS,DET,Little Caesars Arena,/boxscores/202403220DET.html
+1041,2024,"Fri, Mar 22, 2024",OKC,TOR,Scotiabank Arena,/boxscores/202403220TOR.html
+1042,2024,"Fri, Mar 22, 2024",NOP,MIA,Kaseya Center,/boxscores/202403220MIA.html
+1043,2024,"Fri, Mar 22, 2024",CLE,MIN,Target Center,/boxscores/202403220MIN.html
+1044,2024,"Fri, Mar 22, 2024",MEM,SAS,Frost Bank Center,/boxscores/202403220SAS.html
+1045,2024,"Fri, Mar 22, 2024",IND,GSW,Chase Center,/boxscores/202403220GSW.html
+1046,2024,"Fri, Mar 22, 2024",LAC,POR,Moda Center,/boxscores/202403220POR.html
+1047,2024,"Fri, Mar 22, 2024",PHI,LAL,Crypto.com Arena,/boxscores/202403220LAL.html
+1048,2024,"Sat, Mar 23, 2024",BRK,NYK,Madison Square Garden (IV),/boxscores/202403230NYK.html
+1049,2024,"Sat, Mar 23, 2024",SAC,ORL,Kia Center,/boxscores/202403230ORL.html
+1050,2024,"Sat, Mar 23, 2024",CHO,ATL,State Farm Arena,/boxscores/202403230ATL.html
+1051,2024,"Sat, Mar 23, 2024",BOS,CHI,United Center,/boxscores/202403230CHI.html
+1052,2024,"Sat, Mar 23, 2024",UTA,HOU,Toyota Center,/boxscores/202403230HOU.html
+1053,2024,"Sat, Mar 23, 2024",PHO,SAS,Frost Bank Center,/boxscores/202403230SAS.html
+1054,2024,"Sat, Mar 23, 2024",TOR,WAS,Capital One Arena,/boxscores/202403230WAS.html
+1055,2024,"Sat, Mar 23, 2024",DEN,POR,Moda Center,/boxscores/202403230POR.html
+1056,2024,"Sun, Mar 24, 2024",NOP,DET,Little Caesars Arena,/boxscores/202403240DET.html
+1057,2024,"Sun, Mar 24, 2024",PHI,LAC,Crypto.com Arena,/boxscores/202403240LAC.html
+1058,2024,"Sun, Mar 24, 2024",CLE,MIA,Kaseya Center,/boxscores/202403240MIA.html
+1059,2024,"Sun, Mar 24, 2024",OKC,MIL,Fiserv Forum,/boxscores/202403240MIL.html
+1060,2024,"Sun, Mar 24, 2024",GSW,MIN,Target Center,/boxscores/202403240MIN.html
+1061,2024,"Sun, Mar 24, 2024",IND,LAL,Crypto.com Arena,/boxscores/202403240LAL.html
+1062,2024,"Mon, Mar 25, 2024",CHO,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403250CLE.html
+1063,2024,"Mon, Mar 25, 2024",BOS,ATL,State Farm Arena,/boxscores/202403250ATL.html
+1064,2024,"Mon, Mar 25, 2024",DET,NYK,Madison Square Garden (IV),/boxscores/202403250NYK.html
+1065,2024,"Mon, Mar 25, 2024",BRK,TOR,Scotiabank Arena,/boxscores/202403250TOR.html
+1066,2024,"Mon, Mar 25, 2024",WAS,CHI,United Center,/boxscores/202403250CHI.html
+1067,2024,"Mon, Mar 25, 2024",POR,HOU,Toyota Center,/boxscores/202403250HOU.html
+1068,2024,"Mon, Mar 25, 2024",PHO,SAS,Frost Bank Center,/boxscores/202403250SAS.html
+1069,2024,"Mon, Mar 25, 2024",MEM,DEN,Ball Arena,/boxscores/202403250DEN.html
+1070,2024,"Mon, Mar 25, 2024",DAL,UTA,Delta Center,/boxscores/202403250UTA.html
+1071,2024,"Mon, Mar 25, 2024",PHI,SAC,Golden 1 Center,/boxscores/202403250SAC.html
+1072,2024,"Mon, Mar 25, 2024",IND,LAC,Crypto.com Arena,/boxscores/202403250LAC.html
+1073,2024,"Tue, Mar 26, 2024",GSW,MIA,Kaseya Center,/boxscores/202403260MIA.html
+1074,2024,"Tue, Mar 26, 2024",LAL,MIL,Fiserv Forum,/boxscores/202403260MIL.html
+1075,2024,"Tue, Mar 26, 2024",OKC,NOP,Smoothie King Center,/boxscores/202403260NOP.html
+1076,2024,"Tue, Mar 26, 2024",DAL,SAC,Golden 1 Center,/boxscores/202403260SAC.html
+1077,2024,"Wed, Mar 27, 2024",CLE,CHO,Spectrum Center,/boxscores/202403270CHO.html
+1078,2024,"Wed, Mar 27, 2024",GSW,ORL,Kia Center,/boxscores/202403270ORL.html
+1079,2024,"Wed, Mar 27, 2024",BRK,WAS,Capital One Arena,/boxscores/202403270WAS.html
+1080,2024,"Wed, Mar 27, 2024",POR,ATL,State Farm Arena,/boxscores/202403270ATL.html
+1081,2024,"Wed, Mar 27, 2024",LAC,PHI,Wells Fargo Center,/boxscores/202403270PHI.html
+1082,2024,"Wed, Mar 27, 2024",NYK,TOR,Scotiabank Arena,/boxscores/202403270TOR.html
+1083,2024,"Wed, Mar 27, 2024",IND,CHI,United Center,/boxscores/202403270CHI.html
+1084,2024,"Wed, Mar 27, 2024",LAL,MEM,FedEx Forum,/boxscores/202403270MEM.html
+1085,2024,"Wed, Mar 27, 2024",DET,MIN,Target Center,/boxscores/202403270MIN.html
+1086,2024,"Wed, Mar 27, 2024",HOU,OKC,Paycom Center,/boxscores/202403270OKC.html
+1087,2024,"Wed, Mar 27, 2024",SAS,UTA,Delta Center,/boxscores/202403270UTA.html
+1088,2024,"Wed, Mar 27, 2024",PHO,DEN,Ball Arena,/boxscores/202403270DEN.html
+1089,2024,"Thu, Mar 28, 2024",BOS,ATL,State Farm Arena,/boxscores/202403280ATL.html
+1090,2024,"Thu, Mar 28, 2024",MIL,NOP,Smoothie King Center,/boxscores/202403280NOP.html
+1091,2024,"Fri, Mar 29, 2024",GSW,CHO,Spectrum Center,/boxscores/202403290CHO.html
+1092,2024,"Fri, Mar 29, 2024",LAL,IND,Gainbridge Fieldhouse,/boxscores/202403290IND.html
+1093,2024,"Fri, Mar 29, 2024",LAC,ORL,Kia Center,/boxscores/202403290ORL.html
+1094,2024,"Fri, Mar 29, 2024",DET,WAS,Capital One Arena,/boxscores/202403290WAS.html
+1095,2024,"Fri, Mar 29, 2024",CHI,BRK,Barclays Center,/boxscores/202403290BRK.html
+1096,2024,"Fri, Mar 29, 2024",PHI,CLE,Rocket Mortgage Fieldhouse,/boxscores/202403290CLE.html
+1097,2024,"Fri, Mar 29, 2024",POR,MIA,Kaseya Center,/boxscores/202403290MIA.html
+1098,2024,"Fri, Mar 29, 2024",PHO,OKC,Paycom Center,/boxscores/202403290OKC.html
+1099,2024,"Fri, Mar 29, 2024",NYK,SAS,Frost Bank Center,/boxscores/202403290SAS.html
+1100,2024,"Fri, Mar 29, 2024",MIN,DEN,Ball Arena,/boxscores/202403290DEN.html
+1101,2024,"Fri, Mar 29, 2024",HOU,UTA,Delta Center,/boxscores/202403290UTA.html
+1102,2024,"Fri, Mar 29, 2024",DAL,SAC,Golden 1 Center,/boxscores/202403290SAC.html
+1103,2024,"Sat, Mar 30, 2024",BOS,NOP,Smoothie King Center,/boxscores/202403300NOP.html
+1104,2024,"Sat, Mar 30, 2024",MEM,ORL,Kia Center,/boxscores/202403300ORL.html
+1105,2024,"Sat, Mar 30, 2024",MIL,ATL,State Farm Arena,/boxscores/202403300ATL.html
+1106,2024,"Sun, Mar 31, 2024",CLE,DEN,Ball Arena,/boxscores/202403310DEN.html
+1107,2024,"Sun, Mar 31, 2024",LAL,BRK,Barclays Center,/boxscores/202403310BRK.html
+1108,2024,"Sun, Mar 31, 2024",LAC,CHO,Spectrum Center,/boxscores/202403310CHO.html
+1109,2024,"Sun, Mar 31, 2024",PHI,TOR,Scotiabank Arena,/boxscores/202403310TOR.html
+1110,2024,"Sun, Mar 31, 2024",MIA,WAS,Capital One Arena,/boxscores/202403310WAS.html
+1111,2024,"Sun, Mar 31, 2024",DAL,HOU,Toyota Center,/boxscores/202403310HOU.html
+1112,2024,"Sun, Mar 31, 2024",CHI,MIN,Target Center,/boxscores/202403310MIN.html
+1113,2024,"Sun, Mar 31, 2024",OKC,NYK,Madison Square Garden (IV),/boxscores/202403310NYK.html
+1114,2024,"Sun, Mar 31, 2024",GSW,SAS,Frost Bank Center,/boxscores/202403310SAS.html
+1115,2024,"Sun, Mar 31, 2024",UTA,SAC,Golden 1 Center,/boxscores/202403310SAC.html
+1116,2024,"Mon, Apr 1, 2024",BOS,CHO,Spectrum Center,/boxscores/202404010CHO.html
+1117,2024,"Mon, Apr 1, 2024",MEM,DET,Little Caesars Arena,/boxscores/202404010DET.html
+1118,2024,"Mon, Apr 1, 2024",BRK,IND,Gainbridge Fieldhouse,/boxscores/202404010IND.html
+1119,2024,"Mon, Apr 1, 2024",POR,ORL,Kia Center,/boxscores/202404010ORL.html
+1120,2024,"Mon, Apr 1, 2024",ATL,CHI,United Center,/boxscores/202404010CHI.html
+1121,2024,"Mon, Apr 1, 2024",PHO,NOP,Smoothie King Center,/boxscores/202404010NOP.html
+1122,2024,"Tue, Apr 2, 2024",LAL,TOR,Scotiabank Arena,/boxscores/202404020TOR.html
+1123,2024,"Tue, Apr 2, 2024",MIL,WAS,Capital One Arena,/boxscores/202404020WAS.html
+1124,2024,"Tue, Apr 2, 2024",NYK,MIA,Kaseya Center,/boxscores/202404020MIA.html
+1125,2024,"Tue, Apr 2, 2024",OKC,PHI,Wells Fargo Center,/boxscores/202404020PHI.html
+1126,2024,"Tue, Apr 2, 2024",HOU,MIN,Target Center,/boxscores/202404020MIN.html
+1127,2024,"Tue, Apr 2, 2024",SAS,DEN,Ball Arena,/boxscores/202404020DEN.html
+1128,2024,"Tue, Apr 2, 2024",CLE,UTA,Delta Center,/boxscores/202404020UTA.html
+1129,2024,"Tue, Apr 2, 2024",DAL,GSW,Chase Center,/boxscores/202404020GSW.html
+1130,2024,"Tue, Apr 2, 2024",LAC,SAC,Golden 1 Center,/boxscores/202404020SAC.html
+1131,2024,"Wed, Apr 3, 2024",POR,CHO,Spectrum Center,/boxscores/202404030CHO.html
+1132,2024,"Wed, Apr 3, 2024",LAL,WAS,Capital One Arena,/boxscores/202404030WAS.html
+1133,2024,"Wed, Apr 3, 2024",DET,ATL,State Farm Arena,/boxscores/202404030ATL.html
+1134,2024,"Wed, Apr 3, 2024",OKC,BOS,TD Garden,/boxscores/202404030BOS.html
+1135,2024,"Wed, Apr 3, 2024",IND,BRK,Barclays Center,/boxscores/202404030BRK.html
+1136,2024,"Wed, Apr 3, 2024",MEM,MIL,Fiserv Forum,/boxscores/202404030MIL.html
+1137,2024,"Wed, Apr 3, 2024",TOR,MIN,Target Center,/boxscores/202404030MIN.html
+1138,2024,"Wed, Apr 3, 2024",ORL,NOP,Smoothie King Center,/boxscores/202404030NOP.html
+1139,2024,"Wed, Apr 3, 2024",CLE,PHO,Footprint Center,/boxscores/202404030PHO.html
+1140,2024,"Thu, Apr 4, 2024",ATL,DAL,American Airlines Center,/boxscores/202404040DAL.html
+1141,2024,"Thu, Apr 4, 2024",PHI,MIA,Kaseya Center,/boxscores/202404040MIA.html
+1142,2024,"Thu, Apr 4, 2024",SAC,NYK,Madison Square Garden (IV),/boxscores/202404040NYK.html
+1143,2024,"Thu, Apr 4, 2024",GSW,HOU,Toyota Center,/boxscores/202404040HOU.html
+1144,2024,"Thu, Apr 4, 2024",DEN,LAC,Crypto.com Arena,/boxscores/202404040LAC.html
+1145,2024,"Fri, Apr 5, 2024",ORL,CHO,Spectrum Center,/boxscores/202404050CHO.html
+1146,2024,"Fri, Apr 5, 2024",OKC,IND,Gainbridge Fieldhouse,/boxscores/202404050IND.html
+1147,2024,"Fri, Apr 5, 2024",POR,WAS,Capital One Arena,/boxscores/202404050WAS.html
+1148,2024,"Fri, Apr 5, 2024",SAC,BOS,TD Garden,/boxscores/202404050BOS.html
+1149,2024,"Fri, Apr 5, 2024",NYK,CHI,United Center,/boxscores/202404050CHI.html
+1150,2024,"Fri, Apr 5, 2024",MIA,HOU,Toyota Center,/boxscores/202404050HOU.html
+1151,2024,"Fri, Apr 5, 2024",DET,MEM,FedEx Forum,/boxscores/202404050MEM.html
+1152,2024,"Fri, Apr 5, 2024",TOR,MIL,Fiserv Forum,/boxscores/202404050MIL.html
+1153,2024,"Fri, Apr 5, 2024",SAS,NOP,Smoothie King Center,/boxscores/202404050NOP.html
+1154,2024,"Fri, Apr 5, 2024",GSW,DAL,American Airlines Center,/boxscores/202404050DAL.html
+1155,2024,"Fri, Apr 5, 2024",MIN,PHO,Footprint Center,/boxscores/202404050PHO.html
+1156,2024,"Fri, Apr 5, 2024",UTA,LAC,Crypto.com Arena,/boxscores/202404050LAC.html
+1157,2024,"Sat, Apr 6, 2024",CLE,LAL,Crypto.com Arena,/boxscores/202404060LAL.html
+1158,2024,"Sat, Apr 6, 2024",DET,BRK,Barclays Center,/boxscores/202404060BRK.html
+1159,2024,"Sat, Apr 6, 2024",PHI,MEM,FedEx Forum,/boxscores/202404060MEM.html
+1160,2024,"Sat, Apr 6, 2024",ATL,DEN,Ball Arena,/boxscores/202404060DEN.html
+1161,2024,"Sun, Apr 7, 2024",HOU,DAL,American Airlines Center,/boxscores/202404070DAL.html
+1162,2024,"Sun, Apr 7, 2024",CLE,LAC,Crypto.com Arena,/boxscores/202404070LAC.html
+1163,2024,"Sun, Apr 7, 2024",MIA,IND,Gainbridge Fieldhouse,/boxscores/202404070IND.html
+1164,2024,"Sun, Apr 7, 2024",POR,BOS,TD Garden,/boxscores/202404070BOS.html
+1165,2024,"Sun, Apr 7, 2024",OKC,CHO,Spectrum Center,/boxscores/202404070CHO.html
+1166,2024,"Sun, Apr 7, 2024",CHI,ORL,Kia Center,/boxscores/202404070ORL.html
+1167,2024,"Sun, Apr 7, 2024",NOP,PHO,Footprint Center,/boxscores/202404070PHO.html
+1168,2024,"Sun, Apr 7, 2024",WAS,TOR,Scotiabank Arena,/boxscores/202404070TOR.html
+1169,2024,"Sun, Apr 7, 2024",NYK,MIL,Fiserv Forum,/boxscores/202404070MIL.html
+1170,2024,"Sun, Apr 7, 2024",PHI,SAS,Frost Bank Center,/boxscores/202404070SAS.html
+1171,2024,"Sun, Apr 7, 2024",SAC,BRK,Barclays Center,/boxscores/202404070BRK.html
+1172,2024,"Sun, Apr 7, 2024",UTA,GSW,Chase Center,/boxscores/202404070GSW.html
+1173,2024,"Sun, Apr 7, 2024",MIN,LAL,Crypto.com Arena,/boxscores/202404070LAL.html
+1174,2024,"Tue, Apr 9, 2024",DAL,CHO,Spectrum Center,/boxscores/202404090CHO.html
+1175,2024,"Tue, Apr 9, 2024",DET,PHI,Wells Fargo Center,/boxscores/202404090PHI.html
+1176,2024,"Tue, Apr 9, 2024",IND,TOR,Scotiabank Arena,/boxscores/202404090TOR.html
+1177,2024,"Tue, Apr 9, 2024",MIA,ATL,State Farm Arena,/boxscores/202404090ATL.html
+1178,2024,"Tue, Apr 9, 2024",BOS,MIL,Fiserv Forum,/boxscores/202404090MIL.html
+1179,2024,"Tue, Apr 9, 2024",NYK,CHI,United Center,/boxscores/202404090CHI.html
+1180,2024,"Tue, Apr 9, 2024",ORL,HOU,Toyota Center,/boxscores/202404090HOU.html
+1181,2024,"Tue, Apr 9, 2024",SAS,MEM,FedEx Forum,/boxscores/202404090MEM.html
+1182,2024,"Tue, Apr 9, 2024",WAS,MIN,Target Center,/boxscores/202404090MIN.html
+1183,2024,"Tue, Apr 9, 2024",SAC,OKC,Paycom Center,/boxscores/202404090OKC.html
+1184,2024,"Tue, Apr 9, 2024",DEN,UTA,Delta Center,/boxscores/202404090UTA.html
+1185,2024,"Tue, Apr 9, 2024",GSW,LAL,Crypto.com Arena,/boxscores/202404090LAL.html
+1186,2024,"Tue, Apr 9, 2024",LAC,PHO,Footprint Center,/boxscores/202404090PHO.html
+1187,2024,"Tue, Apr 9, 2024",NOP,POR,Moda Center,/boxscores/202404090POR.html
+1188,2024,"Wed, Apr 10, 2024",MEM,CLE,Rocket Mortgage Fieldhouse,/boxscores/202404100CLE.html
+1189,2024,"Wed, Apr 10, 2024",CHO,ATL,State Farm Arena,/boxscores/202404100ATL.html
+1190,2024,"Wed, Apr 10, 2024",TOR,BRK,Barclays Center,/boxscores/202404100BRK.html
+1191,2024,"Wed, Apr 10, 2024",DAL,MIA,Kaseya Center,/boxscores/202404100MIA.html
+1192,2024,"Wed, Apr 10, 2024",ORL,MIL,Fiserv Forum,/boxscores/202404100MIL.html
+1193,2024,"Wed, Apr 10, 2024",SAS,OKC,Paycom Center,/boxscores/202404100OKC.html
+1194,2024,"Wed, Apr 10, 2024",MIN,DEN,Ball Arena,/boxscores/202404100DEN.html
+1195,2024,"Wed, Apr 10, 2024",PHO,LAC,Crypto.com Arena,/boxscores/202404100LAC.html
+1196,2024,"Thu, Apr 11, 2024",CHI,DET,Little Caesars Arena,/boxscores/202404110DET.html
+1197,2024,"Thu, Apr 11, 2024",NYK,BOS,TD Garden,/boxscores/202404110BOS.html
+1198,2024,"Thu, Apr 11, 2024",HOU,UTA,Delta Center,/boxscores/202404110UTA.html
+1199,2024,"Thu, Apr 11, 2024",GSW,POR,Moda Center,/boxscores/202404110POR.html
+1200,2024,"Thu, Apr 11, 2024",NOP,SAC,Golden 1 Center,/boxscores/202404110SAC.html
+1201,2024,"Fri, Apr 12, 2024",ORL,PHI,Wells Fargo Center,/boxscores/202404120PHI.html
+1202,2024,"Fri, Apr 12, 2024",CHI,WAS,Capital One Arena,/boxscores/202404120WAS.html
+1203,2024,"Fri, Apr 12, 2024",CHO,BOS,TD Garden,/boxscores/202404120BOS.html
+1204,2024,"Fri, Apr 12, 2024",IND,CLE,Rocket Mortgage Fieldhouse,/boxscores/202404120CLE.html
+1205,2024,"Fri, Apr 12, 2024",BRK,NYK,Madison Square Garden (IV),/boxscores/202404120NYK.html
+1206,2024,"Fri, Apr 12, 2024",LAL,MEM,FedEx Forum,/boxscores/202404120MEM.html
+1207,2024,"Fri, Apr 12, 2024",TOR,MIA,Kaseya Center,/boxscores/202404120MIA.html
+1208,2024,"Fri, Apr 12, 2024",ATL,MIN,Target Center,/boxscores/202404120MIN.html
+1209,2024,"Fri, Apr 12, 2024",MIL,OKC,Paycom Center,/boxscores/202404120OKC.html
+1210,2024,"Fri, Apr 12, 2024",DEN,SAS,Frost Bank Center,/boxscores/202404120SAS.html
+1211,2024,"Fri, Apr 12, 2024",DET,DAL,American Airlines Center,/boxscores/202404120DAL.html
+1212,2024,"Fri, Apr 12, 2024",NOP,GSW,Chase Center,/boxscores/202404120GSW.html
+1213,2024,"Fri, Apr 12, 2024",HOU,POR,Moda Center,/boxscores/202404120POR.html
+1214,2024,"Fri, Apr 12, 2024",UTA,LAC,Crypto.com Arena,/boxscores/202404120LAC.html
+1215,2024,"Fri, Apr 12, 2024",PHO,SAC,Golden 1 Center,/boxscores/202404120SAC.html
+1216,2024,"Sun, Apr 14, 2024",WAS,BOS,TD Garden,/boxscores/202404140BOS.html
+1217,2024,"Sun, Apr 14, 2024",CHO,CLE,Rocket Mortgage Fieldhouse,/boxscores/202404140CLE.html
+1218,2024,"Sun, Apr 14, 2024",ATL,IND,Gainbridge Fieldhouse,/boxscores/202404140IND.html
+1219,2024,"Sun, Apr 14, 2024",TOR,MIA,Kaseya Center,/boxscores/202404140MIA.html
+1220,2024,"Sun, Apr 14, 2024",CHI,NYK,Madison Square Garden (IV),/boxscores/202404140NYK.html
+1221,2024,"Sun, Apr 14, 2024",MIL,ORL,Kia Center,/boxscores/202404140ORL.html
+1222,2024,"Sun, Apr 14, 2024",BRK,PHI,Wells Fargo Center,/boxscores/202404140PHI.html
+1223,2024,"Sun, Apr 14, 2024",UTA,GSW,Chase Center,/boxscores/202404140GSW.html
+1224,2024,"Sun, Apr 14, 2024",HOU,LAC,Crypto.com Arena,/boxscores/202404140LAC.html
+1225,2024,"Sun, Apr 14, 2024",DEN,MEM,FedEx Forum,/boxscores/202404140MEM.html
+1226,2024,"Sun, Apr 14, 2024",PHO,MIN,Target Center,/boxscores/202404140MIN.html
+1227,2024,"Sun, Apr 14, 2024",LAL,NOP,Smoothie King Center,/boxscores/202404140NOP.html
+1228,2024,"Sun, Apr 14, 2024",DAL,OKC,Paycom Center,/boxscores/202404140OKC.html
+1229,2024,"Sun, Apr 14, 2024",POR,SAC,Golden 1 Center,/boxscores/202404140SAC.html
+1230,2024,"Sun, Apr 14, 2024",DET,SAS,Frost Bank Center,/boxscores/202404140SAS.html
+1231,2024,"Tue, Apr 16, 2024",LAL,NOP,Smoothie King Center,/boxscores/202404160NOP.html
+1232,2024,"Tue, Apr 16, 2024",GSW,SAC,Golden 1 Center,/boxscores/202404160SAC.html
+1233,2024,"Wed, Apr 17, 2024",MIA,PHI,Wells Fargo Center,/boxscores/202404170PHI.html
+1234,2024,"Wed, Apr 17, 2024",ATL,CHI,United Center,/boxscores/202404170CHI.html
+1235,2024,"Fri, Apr 19, 2024",CHI,MIA,Kaseya Center,/boxscores/202404190MIA.html
+1236,2024,"Fri, Apr 19, 2024",SAC,NOP,Smoothie King Center,/boxscores/202404190NOP.html
+1237,2024,"Sat, Apr 20, 2024",ORL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202404200CLE.html
+1238,2024,"Sat, Apr 20, 2024",PHO,MIN,Target Center,/boxscores/202404200MIN.html
+1239,2024,"Sat, Apr 20, 2024",PHI,NYK,Madison Square Garden (IV),/boxscores/202404200NYK.html
+1240,2024,"Sat, Apr 20, 2024",LAL,DEN,Ball Arena,/boxscores/202404200DEN.html
+1241,2024,"Sun, Apr 21, 2024",MIA,BOS,TD Garden,/boxscores/202404210BOS.html
+1242,2024,"Sun, Apr 21, 2024",DAL,LAC,Crypto.com Arena,/boxscores/202404210LAC.html
+1243,2024,"Sun, Apr 21, 2024",IND,MIL,Fiserv Forum,/boxscores/202404210MIL.html
+1244,2024,"Sun, Apr 21, 2024",NOP,OKC,Paycom Center,/boxscores/202404210OKC.html
+1245,2024,"Mon, Apr 22, 2024",ORL,CLE,Rocket Mortgage Fieldhouse,/boxscores/202404220CLE.html
+1246,2024,"Mon, Apr 22, 2024",PHI,NYK,Madison Square Garden (IV),/boxscores/202404220NYK.html
+1247,2024,"Mon, Apr 22, 2024",LAL,DEN,Ball Arena,/boxscores/202404220DEN.html
+1248,2024,"Tue, Apr 23, 2024",PHO,MIN,Target Center,/boxscores/202404230MIN.html
+1249,2024,"Tue, Apr 23, 2024",IND,MIL,Fiserv Forum,/boxscores/202404230MIL.html
+1250,2024,"Tue, Apr 23, 2024",DAL,LAC,Crypto.com Arena,/boxscores/202404230LAC.html
+1251,2024,"Wed, Apr 24, 2024",MIA,BOS,TD Garden,/boxscores/202404240BOS.html
+1252,2024,"Wed, Apr 24, 2024",NOP,OKC,Paycom Center,/boxscores/202404240OKC.html
+1253,2024,"Thu, Apr 25, 2024",CLE,ORL,Kia Center,/boxscores/202404250ORL.html
+1254,2024,"Thu, Apr 25, 2024",NYK,PHI,Wells Fargo Center,/boxscores/202404250PHI.html
+1255,2024,"Thu, Apr 25, 2024",DEN,LAL,Crypto.com Arena,/boxscores/202404250LAL.html
+1256,2024,"Fri, Apr 26, 2024",MIL,IND,Gainbridge Fieldhouse,/boxscores/202404260IND.html
+1257,2024,"Fri, Apr 26, 2024",LAC,DAL,American Airlines Center,/boxscores/202404260DAL.html
+1258,2024,"Fri, Apr 26, 2024",MIN,PHO,Footprint Center,/boxscores/202404260PHO.html
+1259,2024,"Sat, Apr 27, 2024",CLE,ORL,Kia Center,n/a
+1260,2024,"Sat, Apr 27, 2024",OKC,NOP,Smoothie King Center,n/a
+1261,2024,"Sat, Apr 27, 2024",BOS,MIA,Kaseya Center,n/a
+1262,2024,"Sat, Apr 27, 2024",DEN,LAL,Crypto.com Arena,n/a
+1263,2024,"Sun, Apr 28, 2024",NYK,PHI,Wells Fargo Center,n/a
+1264,2024,"Sun, Apr 28, 2024",LAC,DAL,American Airlines Center,n/a
+1265,2024,"Sun, Apr 28, 2024",MIL,IND,Gainbridge Fieldhouse,n/a
+1266,2024,"Sun, Apr 28, 2024",MIN,PHO,Footprint Center,n/a
+1267,2024,"Mon, Apr 29, 2024",LAL,DEN,Ball Arena,n/a
+1268,2024,"Mon, Apr 29, 2024",BOS,MIA,Kaseya Center,n/a
+1269,2024,"Mon, Apr 29, 2024",OKC,NOP,Smoothie King Center,n/a
+1270,2024,"Tue, Apr 30, 2024",ORL,CLE,Rocket Mortgage Fieldhouse,n/a
+1271,2024,"Tue, Apr 30, 2024",IND,MIL,Fiserv Forum,n/a
+1272,2024,"Tue, Apr 30, 2024",PHO,MIN,Target Center,n/a
+1273,2024,"Tue, Apr 30, 2024",PHI,NYK,Madison Square Garden (IV),n/a
+1274,2024,"Wed, May 1, 2024",NOP,OKC,Paycom Center,n/a
+1275,2024,"Wed, May 1, 2024",MIA,BOS,TD Garden,n/a
+1276,2024,"Wed, May 1, 2024",DAL,LAC,Crypto.com Arena,n/a
+1277,2024,"Thu, May 2, 2024",MIL,IND,Gainbridge Fieldhouse,n/a
+1278,2024,"Thu, May 2, 2024",DEN,LAL,Crypto.com Arena,n/a
+1279,2024,"Thu, May 2, 2024",NYK,PHI,Wells Fargo Center,n/a
+1280,2024,"Thu, May 2, 2024",MIN,PHO,Footprint Center,n/a
+1281,2024,"Fri, May 3, 2024",OKC,NOP,Smoothie King Center,n/a
+1282,2024,"Fri, May 3, 2024",CLE,ORL,Kia Center,n/a
+1283,2024,"Fri, May 3, 2024",BOS,MIA,Kaseya Center,n/a
+1284,2024,"Fri, May 3, 2024",LAC,DAL,American Airlines Center,n/a
+1285,2024,"Sat, May 4, 2024",LAL,DEN,Ball Arena,n/a
+1286,2024,"Sat, May 4, 2024",IND,MIL,Fiserv Forum,n/a
+1287,2024,"Sat, May 4, 2024",PHO,MIN,Target Center,n/a
+1288,2024,"Sat, May 4, 2024",PHI,NYK,Madison Square Garden (IV),n/a
+1289,2024,"Sun, May 5, 2024",MIA,BOS,TD Garden,n/a
+1290,2024,"Sun, May 5, 2024",ORL,CLE,Rocket Mortgage Fieldhouse,n/a
+1291,2024,"Sun, May 5, 2024",DAL,LAC,Crypto.com Arena,n/a
+1292,2024,"Sun, May 5, 2024",NOP,OKC,Paycom Center,n/a
